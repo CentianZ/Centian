@@ -1,0 +1,132 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Use of Communication Services – Digital Exclusion</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background: #f4f6f8;
+    }
+    header {
+      background-color: #003366;
+      color: white;
+      padding: 20px 40px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 24px;
+    }
+    nav a {
+      color: white;
+      margin-left: 20px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .hero {
+      background: #004080;
+      color: white;
+      padding: 80px 40px;
+      text-align: center;
+    }
+    .hero h2 {
+      font-size: 36px;
+      margin: 0 0 10px;
+    }
+    .hero p {
+      font-size: 18px;
+      max-width: 800px;
+      margin: 0 auto;
+    }
+    .section {
+      padding: 40px;
+      background: white;
+      margin: 20px auto;
+      max-width: 1000px;
+      border-radius: 8px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+    }
+    .section h3 {
+      margin-top: 0;
+      color: #003366;
+    }
+    footer {
+      background: #003366;
+      color: white;
+      text-align: center;
+      padding: 20px;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+<header>
+  <h1>Ofcom Digital Exclusion Visualization </h1>
+  <nav>
+    <a href="#overview">Overview</a>
+    <a href="#Financial sankey">Financial sankey</a>
+    <a href="#Elderly Internet Use sankey">Elderly Internet Use sanke</a>
+     <!-- TODO -->
+    <a href="#TODO">Pls change</a>
+    <a href="#insights">Key Insights</a>
+  </nav>
+</header>
+
+<div class="hero">
+  <h2>Use of Communication Services</h2>
+  <p>This website visualizes how health conditions, digital service usage, and living status intersect among UK residents, based on Ofcom’s Digital Exclusion Analysis dataset.</p>
+</div>
+
+<div class="section" id="overview">
+  <h3>Overview</h3>
+  <p>The UK communication landscape has shifted significantly, especially for those with health vulnerabilities. This analysis explores how groups with and without health conditions use services such as Entertainment, Utility, and Communication apps. Their digital engagement has implications for social isolation, well-being, and policy design.</p>
+</div>
+
+<div class="section" id="Financial sankey">
+  <a href="code/financial.html" style="text-decoration:none; color:inherit;">
+    <h3>Financial Impact Sankey Visualization</h3>
+    <p>
+      This Sankey chart illustrates how different populations engage with digital communication services 
+      and whether they live alone. Click here to explore the interactive visualization and discover financial vulnerability patterns.
+    </p>
+  </a>
+</div>
+
+<div class="section" id="Elderly Internet Use sankey">
+  <a href="health_living.html" style="text-decoration:none; color:inherit;">
+    <h3>Elderly Internet Use Visualization</h3>
+    <p>
+      This Sankey diagram reveals how individuals aged 65 and over engage with digital services 
+      depending on their health status and living arrangements. Click here to explore digital exclusion 
+      risks and potential intervention strategies for older adults.
+    </p>
+  </a>
+</div>
+
+ <!-- TODO -->
+  <div class="section" id="TODO">
+    <h3> New To do</h3>
+    <p> </p>
+   
+  </div>
+<div>
+
+  <div class="section" id="insights">
+    <h3>Key Insights</h3>
+  <ul>
+    <li><strong>Health Conditions:</strong> People with health issues are more likely to rely on Communication services and also more likely to live alone.</li>
+    <li><strong>No Health Conditions:</strong> More evenly distributed service use (Entertainment, Utility, Communication).</li>
+    <li><strong>Policy Implication:</strong> Digital communication tools could help reduce isolation for those with health-related limitations.</li>
+  </ul>
+</div>
+
+<footer>
+  &copy; 2025 Ofcom Digital Analysis | Powered by D3.js & Chart.js
+</footer>
+</body>
+</html>

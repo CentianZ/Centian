@@ -1,0 +1,159 @@
+{
+  "nodes": [
+    {
+      "name": "35-44"
+    },
+    {
+      "name": "Financial vulnerability High"
+    },
+    {
+      "name": "Financial vulnerability Medium"
+    },
+    {
+      "name": "Financial vulnerability Low"
+    },
+    {
+      "name": "Internet Accessibility None"
+    },
+    {
+      "name": "Internet Accessibility Limited"
+    },
+    {
+      "name": "Internet Accessibility Full"
+    },
+    {
+      "name": "DE"
+    },
+    {
+      "name": "C2"
+    },
+    {
+      "name": "C1"
+    },
+    {
+      "name": "AB"
+    }
+  ],
+  "links": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 216
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 312
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 127
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 75
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 98
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 43
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 82
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 150
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 80
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 49
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 59
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 19
+    },
+    {
+      "source": 4,
+      "target": 10,
+      "value": 41
+    },
+    {
+      "source": 4,
+      "target": 9,
+      "value": 32
+    },
+    {
+      "source": 4,
+      "target": 8,
+      "value": 43
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 102
+    },
+    {
+      "source": 5,
+      "target": 10,
+      "value": 42
+    },
+    {
+      "source": 5,
+      "target": 9,
+      "value": 67
+    },
+    {
+      "source": 5,
+      "target": 8,
+      "value": 70
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 39
+    },
+    {
+      "source": 6,
+      "target": 10,
+      "value": 46
+    },
+    {
+      "source": 6,
+      "target": 9,
+      "value": 33
+    },
+    {
+      "source": 6,
+      "target": 8,
+      "value": 71
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 68
+    }
+  ]
+}

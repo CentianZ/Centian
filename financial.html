@@ -139,13 +139,19 @@ function showBarChart(title) {
 </div>
 <div style="display:flex;">
   <div style="flex:1;">
-    <svg id="sankey" width="1300" height="650"></svg>
+    <svg id="sankey" width="1250" height="650"></svg>
   </div>
   <div style="width:200px; padding:20px; background:#f9f9f9; border-left:1px solid #ddd; font-family:sans-serif;">
     <h4 style="margin-top:0">Filter by Age</h4>
     <div id="ageFilter" style="display:flex; flex-direction:column; gap:6px;">
       <label><input type="radio" name="age" value="All" checked> Show All Ages</label>
       <label><input type="radio" name="age" value="16-24"> 16–24</label>
+      <label><input type="radio" name="age" value="25-34"> 25–34</label>
+      <label><input type="radio" name="age" value="35-44"> 35–44</label>
+      <label><input type="radio" name="age" value="45-54"> 45–54</label>
+      <label><input type="radio" name="age" value="55-64"> 55–64</label>
+      <label><input type="radio" name="age" value="65plus"> 65+</label>
+
     </div>
   </div>
 </div>
@@ -220,7 +226,14 @@ function renderSankey(data) {
 let currentAge = "All";
 function loadSankeyForAge(age) {
   currentAge = age;
-  const dataPath = age === "16-24" ? "data/sankey_age_16_24.json" : "data/financial1_deduped.json";
+  // const dataPath = age === "16-24" ? "data/sankey_age_16_24.json" : "data/financial1_deduped.json";
+    let dataPath;
+  if (age === "All") {
+    dataPath = "data/financial1_deduped.json";
+  } else {
+    const safeAge = age.replace("+", "plus").replace("-", "");
+    dataPath = `data/sankey_${safeAge}.json`;
+  }
   d3.json(dataPath).then(data => renderSankey(data));
 }
 
