@@ -1,0 +1,225 @@
+{
+  "nodes": [
+    {
+      "name": "Has Health conditions"  
+    },
+    {
+      "name": "No Health conditions"
+    },
+    {
+      "name": "Financially vulnerable"
+    },
+    {
+      "name": "Financially not vulnerable"
+    },
+    {
+      "name": "Live Alone"
+    },
+    {
+      "name": "Not Live Alone"
+    },
+    {
+      "name": "Entertainment"
+    },
+    {
+      "name": "Utility"
+    },
+    {
+      "name": "Communication"
+    },
+    {
+      "name": "None"
+    },
+    {
+      "name": "No Internet at Home"
+    },
+    {
+      "name": "Use Internet Outside Home"
+    },
+    {
+      "name": "No Device at Home"
+    }
+  ],
+  "links": [
+    {
+      "source": 0,
+      "target": 6,
+      "value": 167
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 109
+    },
+    {
+      "source": 0,
+      "target": 8,
+      "value": 179
+    },
+    {
+      "source": 0,
+      "target": 9,
+      "value": 53
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 505
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 334
+    },
+    {
+      "source": 1,
+      "target": 8,
+      "value": 530
+    },
+    {
+      "source": 1,
+      "target": 9,
+      "value": 52
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 256
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 187
+    },
+    {
+      "source": 2,
+      "target": 8,
+      "value": 280
+    },
+    {
+      "source": 2,
+      "target": 9,
+      "value": 75
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 56
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 56
+    },
+    {
+      "source": 3,
+      "target": 8,
+      "value": 98
+    },
+    {
+      "source": 3,
+      "target": 9,
+      "value": 36
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 255
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 266
+    },
+    {
+      "source": 4,
+      "target": 8,
+      "value": 157
+    },
+    {
+      "source": 4,
+      "target": 9,
+      "value": 25
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "value": 417
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "value": 286
+    },
+    {
+      "source": 5,
+      "target": 8,
+      "value": 443
+    },
+    {
+      "source": 5,
+      "target": 9,
+      "value": 61
+    },
+    {
+      "source": 6,
+      "target": 10,
+      "value": 85
+    },
+    {
+      "source": 6,
+      "target": 11,
+      "value": 48
+    },
+    {
+      "source": 6,
+      "target": 12,
+      "value": 90
+    },
+    {
+      "source": 7,
+      "target": 10,
+      "value": 75
+    },
+    {
+      "source": 7,
+      "target": 11,
+      "value": 81
+    },
+    {
+      "source": 7,
+      "target": 12,
+      "value": 93
+    },
+    {
+      "source": 8,
+      "target": 10,
+      "value": 93
+    },
+    {
+      "source": 8,
+      "target": 11,
+      "value": 15
+    },
+    {
+      "source": 8,
+      "target": 12,
+      "value": 60
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "value": 97
+    },
+    {
+      "source": 9,
+      "target": 11,
+      "value": 13
+    },
+    {
+      "source": 9,
+      "target": 12,
+      "value": 62
+    }
+  ]
+}

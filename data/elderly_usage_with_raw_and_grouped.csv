@@ -1,0 +1,1357 @@
+health_conditions,Financial_vul,living_alone,weight0,用途分类,Communication and social(emails),Communication and social( video calls),Communication and social(messaging),Communication and social( ),entertainment information(news),entertainment information(products),entertainment(games),entertainment(gaming),entertainment(music),entertainment(movies),entertainment(dating),utility (banking),utility (job),utility (Applying for benefits),utility (public service2),Other,None
+Yes,,Yes,0.674042,通信社交,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+No,,No,0.674042,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No
+Yes,Potentially,Yes,0.513666,通信社交,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,No,No
+Yes,Least,No,0.772714,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+No,Potentially,No,0.674042,通信社交,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,Yes,No,No
+No,Least,Yes,0.674042,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+No,Potentially,No,0.772714,无上网, , , , , , , , , , , , , , , , , 
+Yes,,No,0.513666,无上网, , , , , , , , , , , , , , , , , 
+Yes,Most,Yes,0.674042,无上网, , , , , , , , , , , , , , , , , 
+No,,Yes,0.674042,无上网, , , , , , , , , , , , , , , , , 
+Yes,,No,0.772714,通信社交,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Yes,,No,0.674042,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,No,0.49761,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,Potentially,No,0.674042,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,Most,Yes,0.772714,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Yes,Least,Yes,0.334356,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No
+Yes,Potentially,No,0.772714,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.49761,无上网, , , , , , , , , , , , , , , , , 
+Yes,,No,0.772714,娱乐信息,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Yes,,No,0.772714,通信社交,Yes,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No
+No,,Yes,0.674042,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Yes,,Yes,0.772714,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,No,0.772714,通信社交,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+No,Potentially,Yes,0.772714,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+No,Most,No,0.513666,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,No,0.513666,通信社交,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,Potentially,Yes,0.334356,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No
+No,Potentially,No,0.334356,通信社交,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No
+No,,Yes,0.334356,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No,,Yes,0.772714,无上网, , , , , , , , , , , , , , , , , 
+Yes,,Yes,0.334356,通信社交,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,No,Yes,No,No
+Yes,,No,0.513666,通信社交,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No
+No,,No,0.513666,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No
+Yes,,Yes,0.334356,通信社交,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No
+Yes,,No,0.416208,无上网, , , , , , , , , , , , , , , , , 
+Yes,,Yes,0.772714,无上网, , , , , , , , , , , , , , , , , 
+Yes,,Yes,0.674042,通信社交,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.416208,通信社交,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,No,Yes,No,No
+Yes,,No,0.416208,无上网, , , , , , , , , , , , , , , , , 
+Yes,,No,0.674042,无上网, , , , , , , , , , , , , , , , , 
+Yes,,No,0.772714,通信社交,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+No,,No,0.772714,无上网, , , , , , , , , , , , , , , , , 
+Yes,,Yes,0.416208,通信社交,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,,Yes,0.416208,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,No,0.49761,娱乐信息,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No
+Yes,Potentially,No,0.513666,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Yes,,Yes,0.772714,通信社交,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,Least,No,0.334356,通信社交,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,No,Yes,No,No
+No,,Yes,0.772714,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.513666,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No,,Yes,0.334356,无上网, , , , , , , , , , , , , , , , , 
+Yes,Potentially,No,0.49761,通信社交,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No
+Yes,Potentially,Yes,0.334356,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Yes,,Yes,0.772714,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+Yes,Most,Yes,0.772714,无上网, , , , , , , , , , , , , , , , , 
+No,Most,Yes,0.674042,通信社交,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,No,No
+Yes,Most,Yes,0.772714,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.416208,通信社交,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No
+No,Most,No,0.513666,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,Potentially,No,0.334356,通信社交,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No
+No,,No,0.772714,无上网, , , , , , , , , , , , , , , , , 
+No,Least,No,0.334356,通信社交,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,No,No
+No,Least,Yes,0.334356,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+No,,No,0.334356,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No
+Yes,Potentially,No,0.416208,通信社交,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,Most,Yes,0.513666,无上网, , , , , , , , , , , , , , , , , 
+Yes,,Yes,0.772714,通信社交,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,,Yes,0.49761,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No,,Yes,0.674042,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No
+No,Potentially,No,0.49761,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+No,,No,0.772714,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No,Potentially,Yes,0.334356,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+Yes,,Yes,0.513666,通信社交,Yes,No,No,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No
+No,,No,0.416208,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.334356,无上网, , , , , , , , , , , , , , , , , 
+No,Most,Yes,0.772714,无上网, , , , , , , , , , , , , , , , , 
+No,Least,No,0.513666,通信社交,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,Potentially,No,0.416208,通信社交,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Yes,Most,Yes,0.49761,通信社交,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.49761,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.334356,通信社交,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No
+No,,No,0.772714,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+Yes,,No,0.49761,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.49761,通信社交,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No
+No,,Yes,0.772714,无上网, , , , , , , , , , , , , , , , , 
+No,Least,Yes,0.334356,通信社交,Yes,No,No,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No
+No,,No,0.772714,无上网, , , , , , , , , , , , , , , , , 
+No,,Yes,0.773681,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No,Potentially,No,0.773681,通信社交,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No
+No,Potentially,No,0.488211,实用功能,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No
+Yes,Most,Yes,0.688838,通信社交,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No
+Yes,,Yes,0.688838,通信社交,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.773681,通信社交,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,No
+No,Potentially,No,0.773681,通信社交,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No
+No,,No,0.688838,通信社交,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,No
+No,Potentially,No,0.773681,通信社交,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No
+No,,No,0.43413,通信社交,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No
+Yes,,No,0.717846,娱乐信息,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,Most,No,0.773681,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No
+No,,No,0.773681,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+No,Most,Yes,0.43413,无上网, , , , , , , , , , , , , , , , , 
+No,Most,Yes,0.488211,通信社交,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+Yes,Potentially,Yes,0.773681,通信社交,No,No,Yes,Yes,No,No,No,No,No,Yes,No,Yes,No,No,Yes,No,No
+Yes,Most,No,0.773681,无上网, , , , , , , , , , , , , , , , , 
+Yes,Most,Yes,0.43413,通信社交,Yes,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No
+No,Potentially,No,0.43413,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+No,Most,Yes,0.488211,娱乐信息,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No
+No,Potentially,Yes,0.688838,通信社交,Yes,No,No,Yes,No,Yes,No,No,No,No,Yes,No,Yes,No,No,No,No
+No,Potentially,Yes,0.688838,通信社交,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No
+No,Most,Yes,0.43413,通信社交,Yes,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,Yes,No,No,No
+No,Most,Yes,0.488211,无上网, , , , , , , , , , , , , , , , , 
+Yes,Potentially,No,0.43413,无上网, , , , , , , , , , , , , , , , , 
+Yes,Potentially,No,0.773681,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,No,0.43413,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,No
+No,,No,0.688838,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+No,,Yes,0.717846,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+No,,No,0.43413,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.773681,通信社交,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No
+No,,No,0.997109,娱乐信息,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.717846,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+No,,No,0.997109,娱乐信息,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No
+Yes,Potentially,Yes,0.43413,娱乐信息,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.773681,通信社交,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,No
+No,Potentially,No,0.43413,无上网, , , , , , , , , , , , , , , , , 
+Yes,Potentially,No,0.773681,无上网, , , , , , , , , , , , , , , , , 
+Yes,Most,Yes,0.997109,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,Yes,0.997109,通信社交,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+Yes,Potentially,No,0.488211,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,No,0.773681,通信社交,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No
+No,Potentially,No,0.717846,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,Most,No,0.997109,无上网, , , , , , , , , , , , , , , , , 
+Yes,,No,0.773681,通信社交,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,No
+No,,No,0.43413,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No
+No,,No,0.688838,通信社交,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No
+No,Potentially,No,0.43413,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,No,0.43413,通信社交,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No
+Yes,,No,0.717846,无上网, , , , , , , , , , , , , , , , , 
+Yes,,Yes,0.717846,无上网, , , , , , , , , , , , , , , , , 
+Yes,Potentially,No,0.773681,通信社交,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,No
+No,,No,0.773681,通信社交,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+No,,No,0.773681,通信社交,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,No
+Yes,Most,Yes,0.688838,通信社交,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,,Yes,0.488211,无上网, , , , , , , , , , , , , , , , , 
+Yes,Potentially,Yes,0.488211,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,Most,Yes,0.997109,无上网, , , , , , , , , , , , , , , , , 
+No,,Yes,0.997109,无上网, , , , , , , , , , , , , , , , , 
+No,,Yes,0.488211,通信社交,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+Yes,Least,No,0.773681,通信社交,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,No,No,Yes,No,No
+No,,No,0.488211,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.488211,通信社交,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No
+No,,No,0.43413,无上网, , , , , , , , , , , , , , , , , 
+Yes,,Yes,0.488211,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No
+No,Least,No,0.488211,通信社交,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,Yes,No
+No,,No,0.717846,娱乐信息,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No,Potentially,Yes,0.717846,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No
+No,Most,Yes,0.657356,无上网, , , , , , , , , , , , , , , , , 
+Yes,,Yes,0.657356,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+No,Most,Yes,0.972644,通信社交,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No
+Yes,Most,Yes,0.657356,通信社交,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No
+Yes,Most,Yes,0.972644,无上网, , , , , , , , , , , , , , , , , 
+No,Most,Yes,0.935248,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,Most,Yes,0.657356,无上网, , , , , , , , , , , , , , , , , 
+No,,Yes,0.588322,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,,Yes,0.935248,无上网, , , , , , , , , , , , , , , , , 
+No,Most,Yes,0.588322,无上网, , , , , , , , , , , , , , , , , 
+Yes,,Yes,0.935248,无上网, , , , , , , , , , , , , , , , , 
+No,,Yes,0.609549,无上网, , , , , , , , , , , , , , , , , 
+No,Most,Yes,0.935248,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.788454,娱乐信息,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Yes,,Yes,0.609549,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.609549,通信社交,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,Yes,No,No,No,No,No
+Yes,,Yes,0.588322,无上网, , , , , , , , , , , , , , , , , 
+No,,Yes,0.788454,通信社交,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,Yes,No,No
+No,,No,0.935248,通信社交,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.609549,通信社交,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,No
+No,,No,0.657356,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Yes,,Yes,0.657356,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.972644,通信社交,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No
+No,,Yes,0.972644,通信社交,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No
+No,Potentially,No,0.588322,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,Yes,No,No
+Yes,Potentially,Yes,0.972644,无上网, , , , , , , , , , , , , , , , , 
+Yes,Most,Yes,0.657356,无上网, , , , , , , , , , , , , , , , , 
+Yes,,No,0.972644,无上网, , , , , , , , , , , , , , , , , 
+Yes,,No,0.788454,通信社交,Yes,No,Yes,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No
+No,,Yes,0.609549,通信社交,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No
+No,Least,No,0.609549,通信社交,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,Yes,No,No
+No,,No,0.788454,通信社交,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,No,Yes,No,No
+Yes,,Yes,0.935248,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,No,0.609549,通信社交,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,No
+No,Most,Yes,0.609549,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,Potentially,No,0.609549,通信社交,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No
+No,,Yes,0.788454,通信社交,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No
+No,Least,No,0.788454,通信社交,Yes,No,Yes,No,Yes,No,No,No,No,No,No,Yes,No,No,Yes,No,No
+No,Potentially,No,0.609549,通信社交,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+No,,Yes,0.935248,通信社交,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.657356,无上网, , , , , , , , , , , , , , , , , 
+Yes,,No,0.609549,通信社交,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,Potentially,Yes,0.609549,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,Potentially,No,0.788454,通信社交,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No
+Yes,,No,0.609549,通信社交,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No
+No,,No,0.588322,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+No,Potentially,No,0.609549,通信社交,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.717846,通信社交,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,Yes,No,No
+No,,No,0.688838,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+No,,No,0.43413,通信社交,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,Yes,No,No
+Yes,,No,0.997109,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No,Most,Yes,0.688838,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,Yes,0.688838,通信社交,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,No,No
+No,,Yes,0.688838,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.773681,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No
+No,,No,0.997109,无上网, , , , , , , , , , , , , , , , , 
+Yes,Most,Yes,0.997109,通信社交,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Yes,Most,Yes,0.997109,无上网, , , , , , , , , , , , , , , , , 
+No,Most,Yes,0.488211,通信社交,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+No,,Yes,0.43413,通信社交,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No
+No,,No,0.488211,通信社交,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No
+Yes,,No,0.773681,实用功能,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No
+No,,Yes,0.773681,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.688838,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,,Yes,0.488211,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,Yes,0.488211,通信社交,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.688838,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,Yes,0.688838,通信社交,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No
+No,,No,0.773681,通信社交,Yes,No,No,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No
+Yes,Most,No,0.688838,通信社交,Yes,No,No,No,No,Yes,Yes,No,No,No,No,Yes,No,No,Yes,No,No
+No,Potentially,No,0.688838,无上网, , , , , , , , , , , , , , , , , 
+Yes,Most,Yes,0.43413,无上网, , , , , , , , , , , , , , , , , 
+Yes,Potentially,Yes,0.773681,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No
+No,,No,0.997109,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No,Potentially,No,0.688838,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No,Potentially,No,0.997109,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+Yes,Potentially,No,0.43413,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.773681,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,No
+No,Most,Yes,0.717846,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,No,0.688838,无上网, , , , , , , , , , , , , , , , , 
+No,,Yes,0.43413,娱乐信息,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No
+No,,No,0.688838,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,,Yes,0.773681,通信社交,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.717846,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.688838,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+No,,No,0.688838,通信社交,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,No
+No,,No,0.688838,通信社交,Yes,No,No,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No
+Yes,,Yes,0.688838,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+Yes,,Yes,0.488211,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,No,0.488211,通信社交,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No
+No,,Yes,0.43413,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.688838,无上网, , , , , , , , , , , , , , , , , 
+No,,Yes,0.488211,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.773681,通信社交,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No
+No,,No,0.773681,通信社交,Yes,No,No,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No
+Yes,Potentially,Yes,0.688838,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,,Yes,0.688838,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No,,Yes,0.688838,通信社交,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No,,Yes,0.972644,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.657356,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No
+No,,No,0.657356,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Yes,Least,Yes,0.972644,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.657356,无上网, , , , , , , , , , , , , , , , , 
+No,,Yes,0.972644,无上网, , , , , , , , , , , , , , , , , 
+No,Most,Yes,0.657356,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.788454,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.657356,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+No,,No,0.657356,通信社交,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.788454,通信社交,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No
+No,,No,0.972644,通信社交,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,No
+No,Most,Yes,0.972644,通信社交,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No
+No,Potentially,Yes,0.588322,通信社交,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+Yes,Potentially,Yes,0.788454,通信社交,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No
+No,Most,Yes,0.972644,无上网, , , , , , , , , , , , , , , , , 
+Yes,Most,Yes,0.657356,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,No,0.935248,无上网, , , , , , , , , , , , , , , , , 
+Yes,Most,Yes,0.657356,无上网, , , , , , , , , , , , , , , , , 
+Yes,Most,Yes,0.972644,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,Yes,0.788454,通信社交,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,No
+No,Potentially,Yes,0.788454,娱乐信息,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No
+Yes,Potentially,Yes,0.788454,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+No,Potentially,Yes,0.609549,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,,Yes,0.588322,娱乐信息,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+No,,No,0.972644,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Yes,,Yes,0.609549,无上网, , , , , , , , , , , , , , , , , 
+Yes,Most,Yes,0.972644,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.972644,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+No,Most,Yes,0.657356,无上网, , , , , , , , , , , , , , , , , 
+No,Most,Yes,0.657356,无上网, , , , , , , , , , , , , , , , , 
+No,,Yes,0.972644,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,Yes,0.657356,通信社交,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+No,,No,0.972644,通信社交,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,Potentially,Yes,0.788454,通信社交,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No
+No,Potentially,No,0.972644,通信社交,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,No
+No,Potentially,No,0.935248,无上网, , , , , , , , , , , , , , , , , 
+Yes,,Yes,0.788454,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,Potentially,No,0.609549,通信社交,Yes,No,No,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,Yes,No,No
+Yes,Least,Yes,0.609549,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,No
+No,Potentially,Yes,0.788454,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No
+Yes,,No,0.788454,通信社交,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No
+No,,No,0.609549,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,Yes,No,No
+Yes,,No,0.788454,通信社交,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,No
+Yes,Potentially,No,0.788454,通信社交,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No
+No,Potentially,Yes,0.609549,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No
+No,Most,Yes,0.588322,无上网, , , , , , , , , , , , , , , , , 
+Yes,,No,0.609549,通信社交,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,Yes,Yes,No
+Yes,,Yes,0.657356,通信社交,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,Yes,No,No
+Yes,,Yes,0.972644,通信社交,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No
+No,,No,0.609549,无上网, , , , , , , , , , , , , , , , , 
+No,Least,No,0.609549,通信社交,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No
+No,Potentially,No,0.788454,通信社交,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No
+No,,Yes,0.788454,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+No,,Yes,0.609549,无上网, , , , , , , , , , , , , , , , , 
+No,,Yes,0.657356,无上网, , , , , , , , , , , , , , , , , 
+Yes,,No,0.609549,通信社交,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No
+No,,Yes,0.588322,娱乐信息,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No,Least,Yes,0.788454,通信社交,Yes,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,Yes,No,No
+Yes,,No,0.609549,通信社交,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.609549,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+No,,Yes,0.609549,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+Yes,,Yes,0.972644,无上网, , , , , , , , , , , , , , , , , 
+No,Most,Yes,0.935248,通信社交,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No
+No,Least,No,0.609549,通信社交,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No
+No,,No,0.788454,娱乐信息,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Yes,Most,Yes,0.788454,通信社交,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,Yes,No,No
+No,,No,0.609549,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+No,Potentially,No,0.609549,通信社交,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No
+Yes,,No,0.657356,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+No,Potentially,No,0.609549,通信社交,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No
+Yes,,Yes,0.972644,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.588322,通信社交,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,Potentially,No,0.657356,娱乐信息,No,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+Yes,Most,Yes,0.657356,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,Yes,0.788454,通信社交,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,Most,Yes,0.657356,通信社交,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No,Potentially,No,0.788454,通信社交,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,Yes,No,Yes,Yes,No,No
+No,Potentially,Yes,0.972644,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,Yes,0.788454,通信社交,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No
+No,Least,Yes,0.609549,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No
+Yes,,No,0.788454,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+No,,Yes,0.588322,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.609549,通信社交,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No
+No,,No,0.609549,通信社交,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,No
+Yes,,Yes,0.696624,无上网, , , , , , , , , , , , , , , , , 
+No,,Yes,0.696624,无上网, , , , , , , , , , , , , , , , , 
+No,Most,No,0.696624,无上网, , , , , , , , , , , , , , , , , 
+Yes,Most,Yes,0.696624,无上网, , , , , , , , , , , , , , , , , 
+No,,Yes,0.967632,通信社交,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No
+No,,Yes,0.668474,通信社交,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No
+Yes,Most,Yes,0.967632,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+Yes,,No,0.750808,通信社交,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,No,No,Yes,No,No
+No,,Yes,0.750808,无上网, , , , , , , , , , , , , , , , , 
+Yes,Most,Yes,0.967632,无上网, , , , , , , , , , , , , , , , , 
+No,,Yes,0.967632,无上网, , , , , , , , , , , , , , , , , 
+Yes,,Yes,0.421296,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.473778,无上网, , , , , , , , , , , , , , , , , 
+No,Least,No,0.258836,通信社交,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No
+No,Potentially,No,0.258836,通信社交,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Yes,Potentially,No,0.397645,娱乐信息,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No,,Yes,0.385216,无上网, , , , , , , , , , , , , , , , , 
+Yes,Potentially,No,0.521797,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.521797,无上网, , , , , , , , , , , , , , , , , 
+Yes,,No,0.521797,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,Yes,0.598182,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,No,0.385216,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No,Potentially,No,0.397645,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No
+Yes,Potentially,No,0.521797,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,Yes,0.334356,通信社交,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No
+No,,No,0.513666,通信社交,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Yes,Potentially,No,0.334356,通信社交,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,Potentially,No,0.334356,通信社交,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No
+No,Potentially,Yes,0.334356,通信社交,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,Yes,No,No
+Yes,Least,No,0.513666,通信社交,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Yes,No,No,No,No,Yes,No,No
+Yes,Potentially,Yes,0.674042,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,Yes,0.772714,娱乐信息,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No
+Yes,,No,0.513666,通信社交,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No
+No,,No,0.513666,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,No,0.334356,通信社交,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,No
+No,Potentially,Yes,0.416208,通信社交,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No
+No,Least,No,0.334356,通信社交,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,No
+No,,No,0.513666,通信社交,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,Potentially,No,0.334356,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No
+No,,No,0.334356,通信社交,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No
+No,,No,0.334356,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+Yes,,Yes,0.772714,通信社交,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No
+Yes,,Yes,0.674042,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+No,Most,Yes,0.772714,无上网, , , , , , , , , , , , , , , , , 
+Yes,Potentially,No,0.674042,无上网, , , , , , , , , , , , , , , , , 
+Yes,Potentially,No,0.674042,娱乐信息,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No
+No,,Yes,0.674042,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No,Most,No,0.674042,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.674042,通信社交,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No
+No,Potentially,Yes,0.513666,通信社交,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No
+No,Most,Yes,0.334356,通信社交,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+No,,No,0.334356,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+No,,No,0.49761,无上网, , , , , , , , , , , , , , , , , 
+Yes,Most,Yes,0.997109,通信社交,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,Yes,No,No
+No,,No,0.43413,娱乐信息,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No
+No,Most,Yes,0.688838,通信社交,No,Yes,No,Yes,Yes,No,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No
+Yes,Potentially,No,0.773681,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.717846,无上网, , , , , , , , , , , , , , , , , 
+Yes,Least,No,0.688838,娱乐信息,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No
+Yes,Potentially,Yes,0.688838,通信社交,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Yes,Potentially,No,0.717846,通信社交,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes,No,No
+Yes,,No,0.717846,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.717846,通信社交,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,,Yes,0.688838,无上网, , , , , , , , , , , , , , , , , 
+No,,Yes,0.997109,无上网, , , , , , , , , , , , , , , , , 
+Yes,,No,0.688838,通信社交,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,No
+No,,No,0.773681,通信社交,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No
+No,,Yes,0.773681,通信社交,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No
+No,,No,0.773681,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No
+No,,No,0.588322,通信社交,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,,Yes,0.972644,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+No,,Yes,0.788454,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,Yes,No,No
+No,Potentially,No,0.609549,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+No,Potentially,No,0.609549,通信社交,Yes,No,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,No
+No,Most,No,0.972644,娱乐信息,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.972644,无上网, , , , , , , , , , , , , , , , , 
+No,,Yes,0.588322,通信社交,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.588322,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.588322,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No,,Yes,0.935248,无上网, , , , , , , , , , , , , , , , , 
+Yes,Potentially,No,0.609549,通信社交,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+Yes,,Yes,0.788454,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+Yes,Potentially,Yes,0.788454,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,No,0.657356,通信社交,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Yes,Potentially,Yes,0.788454,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Yes,Potentially,No,0.788454,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+Yes,Potentially,Yes,0.788454,无上网, , , , , , , , , , , , , , , , , 
+Yes,Potentially,Yes,0.788454,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.609549,通信社交,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No
+No,,Yes,0.588322,通信社交,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No
+No,,No,0.609549,通信社交,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No
+No,,Yes,0.972644,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No
+No,,Yes,0.657356,通信社交,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No
+No,,Yes,0.609549,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,Yes,No,No
+Yes,,Yes,0.788454,通信社交,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No
+Yes,,No,0.609549,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+Yes,,No,0.609549,通信社交,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No
+No,,No,0.935248,通信社交,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Yes,,No,0.421296,通信社交,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,,Yes,0.696624,无上网, , , , , , , , , , , , , , , , , 
+Yes,,No,0.473778,无上网, , , , , , , , , , , , , , , , , 
+Yes,Most,Yes,0.598182,无上网, , , , , , , , , , , , , , , , , 
+No,Most,Yes,0.598182,无上网, , , , , , , , , , , , , , , , , 
+Yes,Most,Yes,0.598182,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,No,0.598182,无上网, , , , , , , , , , , , , , , , , 
+No,,Yes,0.696624,娱乐信息,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+Yes,Potentially,No,0.668474,通信社交,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+Yes,Least,Yes,0.750808,实用功能,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No
+No,,Yes,0.967632,无上网, , , , , , , , , , , , , , , , , 
+No,Least,Yes,0.967632,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,No,0.696624,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,Potentially,No,0.421296,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+Yes,,Yes,0.668474,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,No,0.668474,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+No,,Yes,0.340855,通信社交,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes,No,No
+Yes,,Yes,0.512752,娱乐信息,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.330201,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+Yes,,No,0.276185,通信社交,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No
+No,,No,0.512752,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Yes,Potentially,No,0.22187,通信社交,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+No,,No,0.22187,通信社交,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,No
+Yes,Potentially,Yes,0.447276,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.340855,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Yes,,Yes,0.340855,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Yes,Potentially,No,0.22187,无上网, , , , , , , , , , , , , , , , , 
+No,Least,Yes,0.22187,通信社交,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No
+No,Potentially,Yes,0.340855,通信社交,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,No,Yes,No,No
+No,,No,0.340855,通信社交,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No,Yes,No,No
+No,,No,0.22187,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Yes,,No,0.276185,通信社交,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,No
+No,Potentially,No,0.22187,通信社交,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,No
+No,Least,No,0.340855,通信社交,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No
+No,Potentially,Yes,0.340855,通信社交,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.340855,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.276185,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No
+No,Least,Yes,0.340855,通信社交,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,No
+No,Potentially,Yes,0.22187,通信社交,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No
+No,,No,0.22187,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+No,Most,Yes,0.512752,无上网, , , , , , , , , , , , , , , , , 
+Yes,,Yes,0.22187,无上网, , , , , , , , , , , , , , , , , 
+No,,Yes,0.276185,通信社交,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,,Yes,0.340855,无上网, , , , , , , , , , , , , , , , , 
+No,,Yes,0.22187,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,Yes,0.512752,娱乐信息,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+Yes,,No,0.512752,通信社交,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No
+No,Potentially,No,0.330201,通信社交,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.330201,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+No,Potentially,Yes,0.512752,通信社交,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.22187,通信社交,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+Yes,,No,0.276185,通信社交,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+Yes,,Yes,0.276185,无上网, , , , , , , , , , , , , , , , , 
+No,,Yes,0.330201,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.22187,通信社交,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Yes,,Yes,0.340855,无上网, , , , , , , , , , , , , , , , , 
+Yes,,Yes,0.512752,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.512752,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,Yes,0.447276,娱乐信息,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+Yes,Potentially,No,0.330201,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,Potentially,Yes,0.340855,通信社交,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,No,Yes,No,No
+Yes,,Yes,0.330201,无上网, , , , , , , , , , , , , , , , , 
+No,,Yes,0.512752,无上网, , , , , , , , , , , , , , , , , 
+Yes,,No,0.340855,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+No,,No,0.340855,通信社交,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No
+Yes,,Yes,0.276185,无上网, , , , , , , , , , , , , , , , , 
+No,,Yes,0.340855,通信社交,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.330201,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+No,Least,No,0.330201,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+No,Most,Yes,0.512752,无上网, , , , , , , , , , , , , , , , , 
+Yes,,No,0.512752,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+No,Potentially,No,0.22187,通信社交,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No
+No,,No,0.22187,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No
+No,,No,0.22187,通信社交,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+No,,No,0.340855,通信社交,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No
+No,,No,0.330201,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+Yes,Most,Yes,0.330201,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,No,0.276185,通信社交,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No
+Yes,Most,No,0.447276,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,No,0.512752,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Yes,Most,Yes,0.512752,无上网, , , , , , , , , , , , , , , , , 
+Yes,Most,Yes,0.512752,无上网, , , , , , , , , , , , , , , , , 
+No,Most,No,0.447276,无上网, , , , , , , , , , , , , , , , , 
+Yes,Most,Yes,0.512752,无上网, , , , , , , , , , , , , , , , , 
+Yes,Most,Yes,0.330201,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,No,0.447276,通信社交,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Yes,Potentially,Yes,0.330201,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+Yes,,No,0.512752,无上网, , , , , , , , , , , , , , , , , 
+Yes,,Yes,0.447276,无上网, , , , , , , , , , , , , , , , , 
+Yes,,No,0.22187,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+Yes,,No,0.447276,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+No,,No,0.276185,通信社交,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,,Yes,0.330201,无上网, , , , , , , , , , , , , , , , , 
+Yes,,Yes,0.447276,通信社交,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No
+No,Potentially,Yes,0.340855,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,Yes,0.22187,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No
+No,Potentially,No,0.340855,通信社交,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.22187,通信社交,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No
+No,Least,No,0.22187,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+Yes,Potentially,No,0.22187,通信社交,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,No
+No,Least,No,0.22187,通信社交,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,No
+No,,No,0.22187,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Yes,Potentially,Yes,0.447276,无上网, , , , , , , , , , , , , , , , , 
+Yes,Potentially,No,0.22187,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+No,,No,0.512752,无上网, , , , , , , , , , , , , , , , , 
+No,,Yes,0.22187,通信社交,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,No
+No,,No,0.330201,无上网, , , , , , , , , , , , , , , , , 
+Yes,,Yes,0.447276,无上网, , , , , , , , , , , , , , , , , 
+Yes,,Yes,0.340855,通信社交,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No
+No,,Yes,0.340855,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,,Yes,0.340855,通信社交,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,No,No,No,No,No
+No,,No,0.330201,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+No,,No,0.22187,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,No,0.512752,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,Most,No,0.447276,通信社交,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,Potentially,No,0.447276,通信社交,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+No,Most,Yes,0.512752,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,Potentially,No,0.447276,通信社交,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+Yes,Potentially,No,0.22187,通信社交,Yes,No,No,Yes,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+No,,Yes,0.512752,无上网, , , , , , , , , , , , , , , , , 
+No,,Yes,0.512752,通信社交,Yes,No,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No
+Yes,,No,0.330201,娱乐信息,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,,Yes,0.330201,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.22187,通信社交,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No
+Yes,,Yes,0.512752,通信社交,Yes,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No
+No,,No,0.330201,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,Yes,0.276185,无上网, , , , , , , , , , , , , , , , , 
+No,,Yes,0.22187,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,Yes,0.340855,通信社交,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,No,Yes,No,No
+No,Potentially,Yes,0.340855,通信社交,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,No
+No,Most,No,0.340855,通信社交,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,No,No
+Yes,,Yes,0.674042,无上网, , , , , , , , , , , , , , , , , 
+Yes,Most,No,0.674042,无上网, , , , , , , , , , , , , , , , , 
+Yes,,Yes,0.674042,通信社交,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes,No,No
+No,Potentially,No,0.972644,通信社交,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No
+No,,No,0.788454,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+Yes,,No,0.788454,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.609549,通信社交,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No
+Yes,,Yes,0.334356,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.513666,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+No,Potentially,No,0.334356,通信社交,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No
+No,Least,No,0.334356,通信社交,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No
+No,,Yes,0.416208,无上网, , , , , , , , , , , , , , , , , 
+Yes,Potentially,Yes,0.416208,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.334356,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,No,0.334356,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+Yes,,Yes,0.334356,通信社交,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,No
+No,Least,No,0.334356,通信社交,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,No
+No,,No,0.657356,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.657356,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,,Yes,0.657356,通信社交,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No
+No,,No,0.972644,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.972644,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Yes,,Yes,0.972644,通信社交,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No,Yes,No,No
+No,,No,0.972644,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.609549,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Yes,,No,0.609549,通信社交,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.588322,无上网, , , , , , , , , , , , , , , , , 
+No,,Yes,0.657356,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+Yes,Potentially,No,0.788454,通信社交,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+No,Potentially,No,0.609549,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+No,Potentially,Yes,0.513666,通信社交,Yes,No,No,No,Yes,Yes,No,Yes,No,No,No,Yes,No,No,Yes,No,No
+No,,Yes,0.772714,通信社交,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Yes,,No,0.772714,实用功能,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No
+No,,No,0.674042,通信社交,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No
+Yes,,Yes,0.772714,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.772714,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Yes,,Yes,0.674042,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.513666,无上网, , , , , , , , , , , , , , , , , 
+Yes,Most,No,0.674042,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Yes,Most,No,0.657356,无上网, , , , , , , , , , , , , , , , , 
+No,Most,Yes,0.657356,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.49761,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.513666,娱乐信息,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No
+No,,No,0.513666,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.513666,娱乐信息,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,,Yes,0.688838,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.688838,通信社交,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,Yes,No,No
+No,Potentially,No,0.788454,通信社交,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,No,No
+Yes,Most,No,0.997109,无上网, , , , , , , , , , , , , , , , , 
+No,Most,Yes,0.997109,无上网, , , , , , , , , , , , , , , , , 
+Yes,Most,Yes,0.717846,娱乐信息,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+Yes,Most,Yes,0.997109,无上网, , , , , , , , , , , , , , , , , 
+Yes,Most,Yes,0.997109,通信社交,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No
+Yes,Potentially,Yes,0.717846,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,No,0.773681,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+No,,No,0.717846,通信社交,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No
+Yes,,No,0.688838,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+No,,Yes,0.997109,通信社交,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,No
+No,Potentially,Yes,0.488211,通信社交,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+Yes,Most,No,0.488211,无上网, , , , , , , , , , , , , , , , , 
+No,,Yes,0.43413,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,Yes,0.43413,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+No,,Yes,0.717846,娱乐信息,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No,,Yes,0.717846,无上网, , , , , , , , , , , , , , , , , 
+No,,Yes,0.717846,无上网, , , , , , , , , , , , , , , , , 
+No,,Yes,0.717846,娱乐信息,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No
+No,,Yes,0.997109,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No,,Yes,0.997109,无上网, , , , , , , , , , , , , , , , , 
+No,,Yes,0.488211,通信社交,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,Yes,No,No
+No,Potentially,No,0.773681,通信社交,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,No,No
+Yes,,No,0.688838,无上网, , , , , , , , , , , , , , , , , 
+No,,Yes,0.772714,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.49761,无上网, , , , , , , , , , , , , , , , , 
+No,,Yes,0.513666,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.416208,通信社交,Yes,No,No,Yes,Yes,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No
+No,Most,Yes,0.972644,通信社交,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Yes,,No,0.788454,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+No,,No,0.49761,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+No,,No,0.513666,通信社交,Yes,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,No
+Yes,Potentially,Yes,0.49761,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+No,Most,Yes,0.696624,无上网, , , , , , , , , , , , , , , , , 
+No,Most,No,0.696624,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+No,Most,Yes,0.967632,无上网, , , , , , , , , , , , , , , , , 
+Yes,Potentially,Yes,0.696624,无上网, , , , , , , , , , , , , , , , , 
+No,Most,Yes,0.473778,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,Yes,0.421296,通信社交,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,Most,Yes,0.967632,无上网, , , , , , , , , , , , , , , , , 
+Yes,Most,Yes,0.473778,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,Most,Yes,0.421296,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,No,0.421296,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,No,0.421296,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,Most,Yes,0.696624,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+No,,No,0.788454,通信社交,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.588322,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+Yes,Potentially,Yes,0.49761,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,No,0.674042,通信社交,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,No
+Yes,Most,Yes,0.772714,通信社交,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,No,No,No
+No,,No,0.513666,通信社交,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+Yes,Potentially,Yes,0.513666,通信社交,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Yes,,No,0.772714,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.334356,无上网, , , , , , , , , , , , , , , , , 
+Yes,,Yes,0.49761,娱乐信息,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.416208,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.49761,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.416208,娱乐信息,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No
+No,,No,0.334356,无上网, , , , , , , , , , , , , , , , , 
+No,,Yes,0.416208,通信社交,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.49761,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.334356,娱乐信息,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No,Potentially,No,0.334356,通信社交,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,Yes,No,No,Yes,No,No
+No,,No,0.334356,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No
+No,Potentially,No,0.334356,通信社交,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,Most,No,0.513666,通信社交,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,Potentially,No,0.513666,通信社交,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+No,Potentially,No,0.513666,通信社交,Yes,No,Yes,No,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No
+No,Potentially,No,0.334356,通信社交,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No
+No,Potentially,No,0.772714,通信社交,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,No,Yes,No,No
+No,,No,0.49761,通信社交,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No
+No,,Yes,0.513666,通信社交,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.772714,通信社交,Yes,Yes,No,No,No,Yes,No,No,No,No,Yes,No,Yes,Yes,No,No,No
+No,,No,0.772714,娱乐信息,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No
+Yes,Potentially,No,0.772714,通信社交,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,No
+No,,Yes,0.674042,无上网, , , , , , , , , , , , , , , , , 
+No,Most,Yes,0.772714,通信社交,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.513666,通信社交,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,Potentially,No,0.513666,通信社交,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,Yes,No,No
+Yes,Potentially,No,0.513666,通信社交,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Yes,,Yes,0.513666,通信社交,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+Yes,Potentially,No,0.513666,通信社交,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No
+No,,No,0.772714,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+Yes,Potentially,Yes,0.49761,无上网, , , , , , , , , , , , , , , , , 
+Yes,,No,0.674042,娱乐信息,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.49761,通信社交,No,No,Yes,No,No,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No
+Yes,,No,0.513666,通信社交,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,Potentially,Yes,0.334356,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,Least,No,0.334356,通信社交,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No
+No,,Yes,0.334356,无上网, , , , , , , , , , , , , , , , , 
+No,Most,Yes,0.334356,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,No,0.334356,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.513666,无上网, , , , , , , , , , , , , , , , , 
+Yes,,Yes,0.334356,无上网, , , , , , , , , , , , , , , , , 
+No,,Yes,0.772714,无上网, , , , , , , , , , , , , , , , , 
+Yes,,Yes,0.674042,无上网, , , , , , , , , , , , , , , , , 
+Yes,,Yes,0.674042,通信社交,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No
+Yes,,Yes,0.334356,通信社交,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+Yes,,Yes,0.772714,通信社交,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No
+No,,No,0.416208,无上网, , , , , , , , , , , , , , , , , 
+Yes,,No,0.772714,无上网, , , , , , , , , , , , , , , , , 
+Yes,Potentially,No,0.334356,通信社交,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Yes,Potentially,No,0.416208,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,No,0.49761,通信社交,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,Yes,No,No
+Yes,Potentially,Yes,0.416208,通信社交,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+Yes,,No,0.416208,无上网, , , , , , , , , , , , , , , , , 
+Yes,,Yes,0.513666,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.513666,通信社交,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No
+No,Most,Yes,0.334356,通信社交,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+No,Potentially,No,0.334356,无上网, , , , , , , , , , , , , , , , , 
+Yes,,Yes,0.513666,通信社交,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No
+Yes,Potentially,Yes,0.772714,无上网, , , , , , , , , , , , , , , , , 
+No,Most,Yes,0.772714,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+No,Potentially,Yes,0.334356,娱乐信息,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No
+No,,Yes,0.674042,无上网, , , , , , , , , , , , , , , , , 
+Yes,,Yes,0.674042,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+Yes,,No,0.772714,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+No,Potentially,Yes,0.772714,通信社交,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,No,No
+Yes,,No,0.334356,无上网, , , , , , , , , , , , , , , , , 
+Yes,Potentially,Yes,0.772714,实用功能,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No
+No,,No,0.674042,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+No,,Yes,0.334356,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.49761,无上网, , , , , , , , , , , , , , , , , 
+Yes,,Yes,0.772714,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.772714,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.772714,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,,Yes,0.772714,无上网, , , , , , , , , , , , , , , , , 
+No,,Yes,0.334356,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,No,0.334356,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No
+No,,No,0.674042,无上网, , , , , , , , , , , , , , , , , 
+No,,Yes,0.334356,无上网, , , , , , , , , , , , , , , , , 
+No,,Yes,0.772714,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.674042,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,No,0.334356,通信社交,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No
+No,,No,0.772714,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,No,0.513666,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+Yes,,Yes,0.772714,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.513666,通信社交,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,Potentially,Yes,0.772714,无上网, , , , , , , , , , , , , , , , , 
+No,Least,No,0.334356,通信社交,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No
+No,Least,No,0.334356,通信社交,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,No
+Yes,Potentially,No,0.513666,无上网, , , , , , , , , , , , , , , , , 
+Yes,Most,No,0.334356,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,Yes,Yes,No,No
+No,Potentially,No,0.334356,通信社交,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No
+Yes,Potentially,No,0.513666,通信社交,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No
+Yes,,Yes,0.772714,通信社交,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Yes,,No,0.416208,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,,Yes,0.772714,无上网, , , , , , , , , , , , , , , , , 
+Yes,,Yes,0.772714,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+Yes,,Yes,0.674042,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.334356,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.49761,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.513666,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+No,,No,0.334356,通信社交,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No
+No,,Yes,0.334356,娱乐信息,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+Yes,,No,0.674042,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.334356,通信社交,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,No
+No,,No,0.772714,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.513666,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+Yes,Potentially,Yes,0.773681,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.773681,娱乐信息,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Yes,,Yes,0.688838,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,Potentially,Yes,0.773681,实用功能,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No
+No,Most,Yes,0.773681,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,No,0.717846,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,,Yes,0.717846,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No,Most,No,0.717846,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No,Potentially,Yes,0.773681,通信社交,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,Yes,No,No
+No,,No,0.688838,通信社交,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No
+No,Potentially,No,0.43413,无上网, , , , , , , , , , , , , , , , , 
+Yes,Most,Yes,0.717846,无上网, , , , , , , , , , , , , , , , , 
+Yes,,Yes,0.717846,通信社交,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No
+No,Least,No,0.773681,通信社交,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+No,,No,0.43413,娱乐信息,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.688838,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Yes,,Yes,0.43413,无上网, , , , , , , , , , , , , , , , , 
+No,,Yes,0.717846,无上网, , , , , , , , , , , , , , , , , 
+Yes,,No,0.43413,通信社交,No,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No
+Yes,,Yes,0.997109,无上网, , , , , , , , , , , , , , , , , 
+No,,Yes,0.997109,无上网, , , , , , , , , , , , , , , , , 
+Yes,,No,0.488211,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+No,,No,0.997109,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+Yes,,Yes,0.997109,无上网, , , , , , , , , , , , , , , , , 
+Yes,Most,Yes,0.43413,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,No,0.688838,通信社交,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,Yes,No,No
+No,Potentially,Yes,0.488211,无上网, , , , , , , , , , , , , , , , , 
+Yes,Most,Yes,0.997109,无上网, , , , , , , , , , , , , , , , , 
+Yes,,No,0.688838,无上网, , , , , , , , , , , , , , , , , 
+No,Most,Yes,0.688838,通信社交,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No
+No,Most,No,0.43413,通信社交,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,No
+No,Potentially,Yes,0.43413,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,No
+No,Potentially,Yes,0.688838,无上网, , , , , , , , , , , , , , , , , 
+Yes,Potentially,Yes,0.688838,无上网, , , , , , , , , , , , , , , , , 
+Yes,Most,Yes,0.997109,无上网, , , , , , , , , , , , , , , , , 
+Yes,Most,Yes,0.997109,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,No,0.43413,娱乐信息,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No
+No,Potentially,No,0.43413,娱乐信息,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No
+Yes,Most,Yes,0.997109,通信社交,Yes,No,No,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,Yes,No,No
+No,Most,Yes,0.997109,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.688838,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.997109,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+No,,No,0.688838,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+Yes,,Yes,0.43413,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.773681,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No
+No,,No,0.688838,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No
+No,,Yes,0.688838,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.688838,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.773681,通信社交,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No
+No,,Yes,0.997109,无上网, , , , , , , , , , , , , , , , , 
+No,,Yes,0.688838,通信社交,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,Yes,No,No
+Yes,Potentially,Yes,0.688838,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.773681,通信社交,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Yes,,Yes,0.717846,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.997109,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No,,Yes,0.717846,无上网, , , , , , , , , , , , , , , , , 
+Yes,Most,Yes,0.717846,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.773681,通信社交,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No
+Yes,Most,Yes,0.717846,通信社交,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Yes,Potentially,No,0.997109,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+Yes,,No,0.717846,娱乐信息,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No,,Yes,0.997109,娱乐信息,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,No
+No,,Yes,0.717846,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.717846,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.997109,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.43413,无上网, , , , , , , , , , , , , , , , , 
+Yes,,Yes,0.488211,通信社交,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Yes,,Yes,0.488211,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.43413,无上网, , , , , , , , , , , , , , , , , 
+Yes,Least,No,0.657356,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No
+No,Least,Yes,0.609549,通信社交,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,No,Yes,No,No
+Yes,,No,0.609549,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.657356,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.972644,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,Yes,0.609549,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No
+No,,No,0.972644,通信社交,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No
+Yes,Least,Yes,0.788454,通信社交,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No
+Yes,,No,0.609549,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,Potentially,No,0.788454,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+No,Most,Yes,0.609549,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No,Potentially,Yes,0.788454,娱乐信息,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No,Potentially,Yes,0.972644,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+No,Most,Yes,0.972644,无上网, , , , , , , , , , , , , , , , , 
+No,Least,No,0.609549,通信社交,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,No,No
+No,Potentially,Yes,0.588322,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.788454,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+Yes,,Yes,0.588322,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No
+No,Least,No,0.609549,通信社交,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,No
+Yes,Potentially,Yes,0.788454,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+No,Potentially,No,0.788454,通信社交,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,Potentially,No,0.609549,通信社交,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+No,Potentially,No,0.609549,通信社交,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No
+No,,Yes,0.609549,通信社交,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No
+No,Least,No,0.609549,通信社交,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,No
+Yes,,No,0.788454,娱乐信息,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No
+No,,No,0.788454,通信社交,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,No
+No,,No,0.609549,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No
+No,,No,0.935248,通信社交,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.935248,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.609549,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No,,Yes,0.935248,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.788454,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.588322,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No
+No,,No,0.588322,通信社交,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,Most,Yes,0.609549,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.788454,通信社交,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+Yes,,No,0.609549,通信社交,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No
+No,,Yes,0.935248,通信社交,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No
+Yes,,Yes,0.997109,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.717846,通信社交,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No
+No,,Yes,0.488211,通信社交,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.43413,通信社交,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,Least,No,0.773681,通信社交,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+No,Least,Yes,0.773681,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,Yes,No,No
+Yes,,No,0.43413,无上网, , , , , , , , , , , , , , , , , 
+No,Most,Yes,0.688838,通信社交,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No,Most,No,0.997109,无上网, , , , , , , , , , , , , , , , , 
+No,,Yes,0.997109,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+Yes,,Yes,0.997109,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,No,0.773681,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.773681,通信社交,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,No
+No,,No,0.997109,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No,,Yes,0.488211,通信社交,Yes,No,Yes,No,Yes,No,No,No,No,No,No,Yes,No,No,Yes,No,No
+No,,No,0.997109,通信社交,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Yes,,No,0.997109,无上网, , , , , , , , , , , , , , , , , 
+Yes,,No,0.43413,无上网, , , , , , , , , , , , , , , , , 
+Yes,,No,0.773681,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.688838,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+No,Potentially,Yes,0.43413,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,No
+No,,No,0.773681,通信社交,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No,Yes,No,No
+Yes,,No,0.773681,通信社交,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No,Yes,No,No
+Yes,,Yes,0.488211,通信社交,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,No
+No,,Yes,0.688838,通信社交,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No
+Yes,Potentially,Yes,0.688838,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,Yes,0.688838,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+Yes,,Yes,0.609549,无上网, , , , , , , , , , , , , , , , , 
+Yes,,Yes,0.609549,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.609549,无上网, , , , , , , , , , , , , , , , , 
+Yes,,Yes,0.657356,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,No,0.657356,通信社交,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.657356,通信社交,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+Yes,,No,0.657356,通信社交,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Yes,Most,No,0.588322,通信社交,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No
+No,,No,0.788454,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.788454,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+Yes,Most,Yes,0.972644,无上网, , , , , , , , , , , , , , , , , 
+Yes,,Yes,0.657356,无上网, , , , , , , , , , , , , , , , , 
+No,,Yes,0.609549,通信社交,No,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,No,No,Yes,No,No
+No,,No,0.788454,通信社交,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Yes,,No,0.609549,无上网, , , , , , , , , , , , , , , , , 
+Yes,,No,0.588322,通信社交,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No
+No,,Yes,0.588322,无上网, , , , , , , , , , , , , , , , , 
+Yes,,Yes,0.972644,无上网, , , , , , , , , , , , , , , , , 
+No,Most,Yes,0.972644,无上网, , , , , , , , , , , , , , , , , 
+Yes,Most,Yes,0.657356,娱乐信息,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Yes,Potentially,No,0.609549,通信社交,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No
+No,,No,0.657356,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+No,Potentially,Yes,0.788454,通信社交,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,No
+Yes,,No,0.609549,通信社交,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No
+No,Potentially,Yes,0.788454,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,Yes,No,No
+No,,No,0.609549,通信社交,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+No,,No,0.609549,通信社交,Yes,Yes,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No
+No,,No,0.609549,无上网, , , , , , , , , , , , , , , , , 
+No,,Yes,0.788454,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,No,0.609549,通信社交,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,No
+Yes,Potentially,Yes,0.788454,无上网, , , , , , , , , , , , , , , , , 
+No,Least,Yes,0.788454,通信社交,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+No,Potentially,No,0.588322,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No
+No,Potentially,No,0.609549,通信社交,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,No,No,No,No,Yes,No,No
+No,Potentially,No,0.788454,娱乐信息,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.788454,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+Yes,Most,No,0.609549,通信社交,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No
+No,Potentially,Yes,0.788454,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,No,0.609549,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No
+Yes,Most,Yes,0.657356,无上网, , , , , , , , , , , , , , , , , 
+Yes,,Yes,0.972644,无上网, , , , , , , , , , , , , , , , , 
+No,,Yes,0.788454,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.788454,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,,Yes,0.788454,通信社交,No,No,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,Yes,No,No
+No,,Yes,0.609549,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,Potentially,No,0.609549,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No
+Yes,,Yes,0.588322,娱乐信息,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No,Most,Yes,0.972644,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+Yes,Most,Yes,0.788454,无上网, , , , , , , , , , , , , , , , , 
+No,Most,No,0.609549,通信社交,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,Yes,No,No
+Yes,Most,Yes,0.609549,无上网, , , , , , , , , , , , , , , , , 
+Yes,Most,Yes,0.972644,无上网, , , , , , , , , , , , , , , , , 
+No,Most,Yes,0.972644,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+No,,Yes,0.657356,无上网, , , , , , , , , , , , , , , , , 
+No,Most,No,0.788454,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.609549,通信社交,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,No
+No,,No,0.657356,娱乐信息,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No
+No,Potentially,Yes,0.609549,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.788454,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No,Least,No,0.788454,通信社交,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,No
+No,Least,Yes,0.609549,通信社交,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No
+No,,No,0.972644,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No,Potentially,Yes,0.588322,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No
+No,Most,Yes,0.972644,通信社交,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,No,Yes,No,No
+No,,Yes,0.657356,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,Potentially,No,0.588322,无上网, , , , , , , , , , , , , , , , , 
+No,Most,No,0.657356,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,No,0.935248,通信社交,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No
+No,Most,Yes,0.935248,通信社交,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,No
+No,Most,Yes,0.788454,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.609549,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,Potentially,No,0.588322,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+Yes,Most,Yes,0.657356,通信社交,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,Potentially,No,0.972644,无上网, , , , , , , , , , , , , , , , , 
+No,Most,Yes,0.657356,无上网, , , , , , , , , , , , , , , , , 
+Yes,Most,Yes,0.972644,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,Most,Yes,0.588322,无上网, , , , , , , , , , , , , , , , , 
+No,Most,Yes,0.588322,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,Potentially,No,0.657356,无上网, , , , , , , , , , , , , , , , , 
+No,Least,No,0.788454,无上网, , , , , , , , , , , , , , , , , 
+Yes,Potentially,Yes,0.972644,通信社交,Yes,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No
+No,,No,0.609549,通信社交,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes,No,No
+No,,Yes,0.788454,通信社交,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Yes,,Yes,0.788454,无上网, , , , , , , , , , , , , , , , , 
+No,,Yes,0.935248,通信社交,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Yes,Potentially,Yes,0.788454,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,Yes,No,No
+No,Potentially,No,0.788454,通信社交,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No
+No,,Yes,0.788454,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No
+No,,No,0.609549,无上网, , , , , , , , , , , , , , , , , 
+Yes,,No,0.609549,通信社交,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No
+Yes,,No,0.750808,无上网, , , , , , , , , , , , , , , , , 
+Yes,Potentially,Yes,0.967632,通信社交,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+No,Potentially,No,0.421296,娱乐信息,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+Yes,,No,0.668474,通信社交,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No
+Yes,,Yes,0.668474,无上网, , , , , , , , , , , , , , , , , 
+Yes,,No,0.750808,无上网, , , , , , , , , , , , , , , , , 
+Yes,,No,0.696624,通信社交,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,No,Yes,No,No,No,Yes,No
+Yes,,Yes,0.696624,无上网, , , , , , , , , , , , , , , , , 
+Yes,,Yes,0.967632,无上网, , , , , , , , , , , , , , , , , 
+Yes,,No,0.967632,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.421296,通信社交,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+Yes,,Yes,0.668474,通信社交,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No
+No,,Yes,0.967632,通信社交,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No
+No,,No,0.696624,其他,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No
+Yes,Most,Yes,0.967632,无上网, , , , , , , , , , , , , , , , , 
+Yes,,Yes,0.473778,通信社交,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No
+No,Most,Yes,0.696624,无上网, , , , , , , , , , , , , , , , , 
+No,Most,Yes,0.473778,通信社交,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+Yes,Potentially,No,0.421296,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+No,Most,Yes,0.696624,无上网, , , , , , , , , , , , , , , , , 
+Yes,Most,Yes,0.967632,无上网, , , , , , , , , , , , , , , , , 
+No,Most,Yes,0.421296,无上网, , , , , , , , , , , , , , , , , 
+No,Most,Yes,0.668474,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,No,0.967632,通信社交,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No
+No,Most,Yes,0.473778,通信社交,Yes,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No
+No,Most,Yes,0.967632,通信社交,Yes,No,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,Yes,No,No
+No,,No,0.750808,通信社交,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No
+No,,No,0.750808,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No
+No,,No,0.967632,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.668474,无上网, , , , , , , , , , , , , , , , , 
+Yes,,No,0.513666,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No
+No,,No,0.334356,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+Yes,,No,0.334356,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Yes,,No,0.334356,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.49761,无上网, , , , , , , , , , , , , , , , , 
+No,,Yes,0.772714,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.334356,无上网, , , , , , , , , , , , , , , , , 
+No,Most,Yes,0.49761,通信社交,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,Potentially,No,0.513666,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.513666,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+No,Potentially,No,0.334356,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.513666,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,Yes,0.772714,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+No,Potentially,No,0.49761,通信社交,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,Potentially,No,0.334356,通信社交,Yes,No,No,Yes,Yes,No,No,No,No,Yes,No,Yes,No,No,No,No,No
+No,Potentially,No,0.334356,通信社交,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,Potentially,Yes,0.674042,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+No,,No,0.772714,通信社交,Yes,No,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No,No,No,No
+Yes,,Yes,0.772714,无上网, , , , , , , , , , , , , , , , , 
+Yes,,Yes,0.334356,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.772714,无上网, , , , , , , , , , , , , , , , , 
+Yes,,Yes,0.772714,无上网, , , , , , , , , , , , , , , , , 
+No,,Yes,0.674042,无上网, , , , , , , , , , , , , , , , , 
+No,Most,Yes,0.674042,实用功能,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No
+No,Most,Yes,0.513666,无上网, , , , , , , , , , , , , , , , , 
+Yes,Most,Yes,0.674042,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.674042,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+No,,No,0.674042,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.334356,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+No,,No,0.674042,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.513666,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No,Potentially,No,0.513666,通信社交,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,No,Yes,No,No
+No,,Yes,0.772714,无上网, , , , , , , , , , , , , , , , , 
+No,,Yes,0.772714,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.772714,通信社交,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No
+No,,No,0.334356,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+No,Most,Yes,0.772714,无上网, , , , , , , , , , , , , , , , , 
+Yes,Most,Yes,0.416208,无上网, , , , , , , , , , , , , , , , , 
+Yes,Most,Yes,0.772714,无上网, , , , , , , , , , , , , , , , , 
+No,Least,No,0.43413,通信社交,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,Yes,Yes,No,Yes,No,No
+No,,No,0.43413,无上网, , , , , , , , , , , , , , , , , 
+Yes,Potentially,No,0.717846,无上网, , , , , , , , , , , , , , , , , 
+Yes,,No,0.717846,通信社交,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,No
+No,,No,0.717846,通信社交,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,,Yes,0.717846,通信社交,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.717846,娱乐信息,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+Yes,,Yes,0.688838,无上网, , , , , , , , , , , , , , , , , 
+Yes,,Yes,0.488211,无上网, , , , , , , , , , , , , , , , , 
+Yes,,Yes,0.488211,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.43413,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No
+Yes,,Yes,0.43413,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Yes,,Yes,0.997109,无上网, , , , , , , , , , , , , , , , , 
+No,,Yes,0.488211,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,Yes,0.717846,其他,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No
+No,Most,Yes,0.688838,通信社交,Yes,No,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No
+No,,Yes,0.972644,娱乐信息,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No
+No,,No,0.609549,娱乐信息,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.609549,通信社交,Yes,No,Yes,No,Yes,No,No,No,Yes,No,No,Yes,No,No,No,No,No
+No,,Yes,0.788454,通信社交,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No
+No,,Yes,0.935248,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No
+No,,No,0.588322,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.588322,通信社交,Yes,No,Yes,No,Yes,No,No,No,No,No,No,Yes,No,No,Yes,No,No
+No,,No,0.972644,通信社交,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+Yes,,Yes,0.972644,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+Yes,,Yes,0.788454,无上网, , , , , , , , , , , , , , , , , 
+No,,Yes,0.588322,通信社交,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No
+Yes,Most,Yes,0.717846,通信社交,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.997109,无上网, , , , , , , , , , , , , , , , , 
+Yes,Most,No,0.717846,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,Yes,0.688838,通信社交,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No
+Yes,Potentially,No,0.788454,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.657356,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,No,0.972644,无上网, , , , , , , , , , , , , , , , , 
+Yes,,No,0.609549,通信社交,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No
+No,,Yes,0.972644,通信社交,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No
+No,,No,0.588322,通信社交,Yes,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No
+No,Potentially,Yes,0.788454,通信社交,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No
+Yes,,Yes,0.657356,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+No,Potentially,No,0.788454,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+No,Potentially,No,0.788454,通信社交,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+No,Most,No,0.588322,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,Yes,0.788454,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+No,,No,0.609549,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No
+No,Most,Yes,0.972644,无上网, , , , , , , , , , , , , , , , , 
+Yes,,No,0.657356,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+Yes,,Yes,0.967632,娱乐信息,No,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No
+Yes,,No,0.668474,通信社交,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,No
+Yes,Potentially,No,0.421296,通信社交,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No
+Yes,Potentially,Yes,0.668474,通信社交,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No
+Yes,Potentially,Yes,0.967632,无上网, , , , , , , , , , , , , , , , , 
+Yes,Least,No,0.668474,通信社交,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,No,No,Yes,No,No
+No,Most,Yes,0.668474,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,No,0.696624,无上网, , , , , , , , , , , , , , , , , 
+Yes,Most,Yes,0.967632,无上网, , , , , , , , , , , , , , , , , 
+Yes,,Yes,0.447276,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+Yes,,No,0.22187,通信社交,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No
+No,,Yes,0.512752,通信社交,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No
+No,Potentially,Yes,0.340855,通信社交,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,No
+No,,Yes,0.512752,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+Yes,,Yes,0.340855,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+No,,Yes,0.22187,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No,Potentially,Yes,0.340855,通信社交,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,Yes,No,No
+No,,Yes,0.447276,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No,Potentially,Yes,0.276185,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,Yes,0.330201,无上网, , , , , , , , , , , , , , , , , 
+No,,Yes,0.22187,无上网, , , , , , , , , , , , , , , , , 
+Yes,,Yes,0.276185,无上网, , , , , , , , , , , , , , , , , 
+No,,Yes,0.22187,通信社交,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,,Yes,0.340855,通信社交,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.340855,通信社交,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,Potentially,No,0.22187,通信社交,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No
+No,,No,0.22187,通信社交,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Yes,,Yes,0.340855,通信社交,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.276185,通信社交,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No
+No,Least,No,0.22187,通信社交,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,No
+No,Most,Yes,0.447276,通信社交,Yes,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No
+No,Most,No,0.447276,通信社交,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No,,Yes,0.340855,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Yes,Potentially,Yes,0.340855,通信社交,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,Potentially,No,0.340855,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+Yes,,Yes,0.276185,通信社交,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.340855,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+Yes,,No,0.22187,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+No,Potentially,No,0.22187,通信社交,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,No,Yes,No,No
+No,,No,0.22187,通信社交,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,No
+No,,No,0.22187,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No
+Yes,,No,0.340855,通信社交,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+Yes,Potentially,No,0.276185,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+Yes,,Yes,0.276185,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.22187,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+Yes,,No,0.276185,通信社交,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No
+No,Potentially,Yes,0.340855,无上网, , , , , , , , , , , , , , , , , 
+No,Most,Yes,0.598182,无上网, , , , , , , , , , , , , , , , , 
+No,Most,No,0.521797,无上网, , , , , , , , , , , , , , , , , 
+No,Most,Yes,0.598182,无上网, , , , , , , , , , , , , , , , , 
+No,Most,No,0.521797,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No
+Yes,,No,0.521797,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+No,Potentially,No,0.258836,通信社交,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Yes,,No,0.598182,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+No,Potentially,Yes,0.385216,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,No,0.521797,通信社交,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No
+Yes,Most,Yes,0.397645,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,No,0.598182,通信社交,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No
+No,Most,No,0.598182,无上网, , , , , , , , , , , , , , , , , 
+No,Most,Yes,0.521797,无上网, , , , , , , , , , , , , , , , , 
+Yes,Most,No,0.521797,通信社交,Yes,No,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,No,No,Yes,No,No
+Yes,,Yes,0.512752,无上网, , , , , , , , , , , , , , , , , 
+Yes,,No,0.512752,无上网, , , , , , , , , , , , , , , , , 
+No,,Yes,0.512752,娱乐信息,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No
+Yes,Potentially,Yes,0.330201,无上网, , , , , , , , , , , , , , , , , 
+Yes,Potentially,No,0.330201,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,No,0.22187,通信社交,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,Potentially,No,0.276185,通信社交,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No
+No,Potentially,No,0.22187,通信社交,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+No,Potentially,Yes,0.22187,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,Yes,0.276185,无上网, , , , , , , , , , , , , , , , , 
+Yes,Most,Yes,0.276185,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,No,0.22187,通信社交,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No
+No,Potentially,No,0.512752,通信社交,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No
+No,Potentially,No,0.512752,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,No,0.330201,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,No,0.276185,通信社交,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,Most,Yes,0.276185,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,No,0.447276,通信社交,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+No,Least,Yes,0.22187,通信社交,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,No
+No,Potentially,No,0.22187,无上网, , , , , , , , , , , , , , , , , 
+Yes,,No,0.340855,通信社交,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,No,No,Yes,No,No
+No,,No,0.340855,通信社交,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Yes,,No,0.276185,通信社交,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No
+No,,No,0.22187,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,Potentially,No,0.22187,通信社交,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No
+No,Potentially,No,0.22187,通信社交,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No
+No,Least,No,0.340855,娱乐信息,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.340855,通信社交,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,Yes,No,No
+Yes,Potentially,Yes,0.512752,通信社交,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No
+Yes,Potentially,No,0.340855,通信社交,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,Potentially,No,0.340855,通信社交,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,Potentially,No,0.340855,通信社交,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No
+No,Potentially,No,0.340855,通信社交,No,No,Yes,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No
+Yes,Potentially,No,0.330201,通信社交,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+Yes,Potentially,No,0.330201,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,Potentially,No,0.22187,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+Yes,Potentially,No,0.512752,无上网, , , , , , , , , , , , , , , , , 
+No,Least,Yes,0.22187,通信社交,Yes,No,No,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,Yes,No,No
+Yes,,Yes,0.512752,无上网, , , , , , , , , , , , , , , , , 
+Yes,,Yes,0.512752,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+No,,No,0.447276,娱乐信息,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No,Potentially,No,0.22187,娱乐信息,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No
+No,,Yes,0.22187,无上网, , , , , , , , , , , , , , , , , 
+Yes,Most,Yes,0.447276,娱乐信息,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No
+Yes,,No,0.22187,通信社交,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,No
+Yes,Least,No,0.22187,通信社交,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,Yes,No,No
+Yes,,No,0.330201,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+Yes,,No,0.330201,无上网, , , , , , , , , , , , , , , , , 
+Yes,,Yes,0.340855,通信社交,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Yes,,Yes,0.22187,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.22187,娱乐信息,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,,Yes,0.340855,无上网, , , , , , , , , , , , , , , , , 
+No,Least,No,0.22187,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+No,Potentially,No,0.22187,通信社交,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,No
+No,,No,0.22187,通信社交,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,Yes,No,No
+Yes,Most,Yes,0.512752,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,Yes,0.22187,通信社交,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No
+No,Most,Yes,0.512752,无上网, , , , , , , , , , , , , , , , , 
+No,Least,No,0.276185,娱乐信息,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.340855,通信社交,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,No
+Yes,,Yes,0.276185,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,,Yes,0.340855,娱乐信息,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+Yes,,No,0.512752,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,Most,Yes,0.512752,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,No,0.22187,通信社交,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Yes,,No,0.488211,通信社交,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,Potentially,Yes,0.49761,通信社交,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No
+No,Most,Yes,0.772714,通信社交,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No
+No,Potentially,No,0.416208,通信社交,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No,Potentially,No,0.416208,无上网, , , , , , , , , , , , , , , , , 
+No,Most,Yes,0.416208,无上网, , , , , , , , , , , , , , , , , 
+No,Most,No,0.674042,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Yes,,No,0.49761,通信社交,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.416208,通信社交,Yes,No,Yes,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No
+Yes,,Yes,0.997109,娱乐信息,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+Yes,Potentially,Yes,0.997109,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No
+No,Potentially,No,0.773681,通信社交,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,No
+No,Potentially,Yes,0.43413,无上网, , , , , , , , , , , , , , , , , 
+No,,Yes,0.997109,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,Most,No,0.43413,通信社交,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,Least,Yes,0.773681,通信社交,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No
+Yes,Least,No,0.773681,通信社交,Yes,No,No,No,Yes,Yes,No,Yes,No,No,No,Yes,No,No,Yes,No,No
+Yes,Potentially,No,0.416208,无上网, , , , , , , , , , , , , , , , , 
+Yes,,Yes,0.609549,无上网, , , , , , , , , , , , , , , , , 
+Yes,,Yes,0.588322,无上网, , , , , , , , , , , , , , , , , 
+No,,Yes,0.788454,通信社交,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No
+Yes,,Yes,0.609549,无上网, , , , , , , , , , , , , , , , , 
+Yes,,Yes,0.967632,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.696624,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Yes,,Yes,0.674042,通信社交,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No
+No,,No,0.972644,通信社交,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,No
+Yes,,No,0.972644,通信社交,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,Yes,No,No
+No,,Yes,0.674042,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.674042,通信社交,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,Least,No,0.334356,通信社交,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,No,No,Yes,No,No
+Yes,,No,0.772714,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+Yes,Most,Yes,0.416208,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.334356,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No
+No,Potentially,No,0.688838,通信社交,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No
+No,Potentially,No,0.43413,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.43413,通信社交,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No
+Yes,Least,Yes,0.657356,通信社交,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No
+No,,No,0.668474,通信社交,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No
+No,,Yes,0.668474,无上网, , , , , , , , , , , , , , , , , 
+No,,Yes,0.421296,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.788454,通信社交,Yes,No,Yes,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No
+No,Potentially,Yes,0.788454,通信社交,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.588322,娱乐信息,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No
+Yes,,No,0.674042,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.674042,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No
+No,Least,Yes,0.772714,通信社交,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,No,Yes,No,No,Yes,No,No
+Yes,Potentially,No,0.513666,通信社交,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,No
+No,,No,0.43413,通信社交,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,No,No,No
+No,,No,0.488211,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+No,,No,0.488211,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+Yes,Potentially,Yes,0.330201,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,Yes,No,No
+No,Potentially,No,0.330201,娱乐信息,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No
+No,,No,0.340855,实用功能,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,No,No
+Yes,Most,Yes,0.512752,通信社交,No,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No
+No,Potentially,No,0.788454,通信社交,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No,Yes,No,No
+No,Potentially,No,0.609549,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No
+No,Potentially,No,0.609549,通信社交,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+Yes,Most,No,0.788454,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+No,Potentially,Yes,0.609549,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No
+No,,No,0.788454,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,Most,Yes,0.609549,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.609549,无上网, , , , , , , , , , , , , , , , , 
+No,Most,Yes,0.609549,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+No,Most,Yes,0.935248,无上网, , , , , , , , , , , , , , , , , 
+No,Most,Yes,0.972644,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,Yes,0.972644,无上网, , , , , , , , , , , , , , , , , 
+No,,Yes,0.773681,无上网, , , , , , , , , , , , , , , , , 
+Yes,,Yes,0.688838,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.972644,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+No,,No,0.657356,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+No,,No,0.972644,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+No,,No,0.788454,无上网,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+No,Most,Yes,0.657356,无上网, , , , , , , , , , , , , , , , , 
+No,Most,Yes,0.657356,无上网, , , , , , , , , , , , , , , , , 
+Yes,Potentially,No,0.588322,通信社交,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+Yes,Most,Yes,0.972644,无上网, , , , , , , , , , , , , , , , , 
+No,Most,Yes,0.972644,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,Yes,0.972644,无上网, , , , , , , , , , , , , , , , , 
+No,Most,Yes,0.588322,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+Yes,Most,Yes,0.972644,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,Yes,0.588322,无上网, , , , , , , , , , , , , , , , , 
+No,,Yes,0.972644,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,Most,Yes,0.972644,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.717846,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+Yes,,No,0.43413,通信社交,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,No,Yes,No,No,Yes,No,No
+Yes,,No,0.488211,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.788454,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,,Yes,0.788454,无上网, , , , , , , , , , , , , , , , , 
+Yes,,Yes,0.717846,无上网, , , , , , , , , , , , , , , , , 
+Yes,,Yes,0.997109,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No,Most,No,0.717846,通信社交,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Yes,,Yes,0.997109,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.657356,通信社交,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.609549,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.588322,通信社交,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.935248,通信社交,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.609549,通信社交,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.788454,无上网, , , , , , , , , , , , , , , , , 
+Yes,,No,0.773681,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+No,,No,0.788454,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+Yes,,Yes,0.49761,无上网, , , , , , , , , , , , , , , , , 
+No,Least,No,0.334356,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No
+No,,Yes,0.416208,无上网, , , , , , , , , , , , , , , , , 
+No,,No,0.416208,无上网, , , , , , , , , , , , , , , , , 
+Yes,Least,Yes,0.997109,通信社交,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No
+No,Most,Yes,0.997109,无上网, , , , , , , , , , , , , , , , , 
+Yes,,Yes,0.997109,无上网, , , , , , , , , , , , , , , , , 
+Yes,Potentially,Yes,0.997109,无上网, , , , , , , , , , , , , , , , , 
+No,Potentially,Yes,0.688838,通信社交,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No
+No,,Yes,0.773681,通信社交,Yes,No,Yes,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No
+Yes,Most,No,0.657356,实用功能,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No
+No,Most,No,0.609549,通信社交,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No
+Yes,Most,No,0.657356,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,No,No,No
+No,Potentially,Yes,0.688838,通信社交,No,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No
+No,Most,No,0.488211,通信社交,Yes,No,Yes,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,No
+No,Most,Yes,0.488211,通信社交,Yes,Yes,No,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,No
+No,Potentially,Yes,0.609549,通信社交,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No

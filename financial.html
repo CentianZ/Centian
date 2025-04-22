@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Sankey Diagram with Age Filter</title>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/d3-sankey@0.12.3/dist/d3-sankey.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="chart-internet.js"></script>
+  <style>
+    .node rect {
+      cursor: move;
+      fill-opacity: .9;
+      shape-rendering: crispEdges;
+    }
+    .node text {
+      pointer-events: none;
+      font: 14px sans-serif;
+    }
+    .link {
+      fill: none;
+      stroke: #000;
+      stroke-opacity: .2;
+    }
+    .link:hover {
+      stroke-opacity: .5;
+    }
+    #tooltip {
+      position: absolute;
+      text-align: left;
+      padding: 8px;
+      font: 13px sans-serif;
+      background: rgba(0,0,0,0.7);
+      color: white;
+      border-radius: 4px;
+      pointer-events: none;
+      display: none;
+      z-index: 999;
+    }
+    #barChartContainer {
+      display: none;
+      position: absolute;
+      top: 100px;
+      left: 100px;
+      width: 640px;
+      background: #fff;
+      border: 1px solid #ccc;
+      padding: 20px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+      z-index: 1000;
+    }
+    #barChartContainer button {
+      position: absolute;
+      top: 5px;
+      right: 5px;
+      border: none;
+      background: transparent;
+      font-size: 20px;
+      cursor: pointer;
+    }
+    #ageFilter {
+      margin: 10px;
+      font-size: 16px;
+    }
+  </style>
+<script>
+const vulnerabilityData = {
+  "Financial vulnerability Low": {
+    labels: ["≤£199/wk", "£200–£299/wk"],
+    male: [80, 180],
+    female: [95, 208]
+  },
+  "Financial vulnerability Medium": {
+    labels: ["£300–£499/wk", "£500–£699/wk"],
+    male: [220, 210],
+    female: [220, 201]
+  },
+  "Financial vulnerability High": {
+    labels: ["£700–£999/wk", "£1000+/wk"],
+    male: [165, 112],
+    female: [148, 109]
+  }
+};
+
+function showBarChart(title) {
+  const ctx = document.getElementById('barChart').getContext('2d');
+  const data = ageData[title] || vulnerabilityData[title];
+  if (!data || !data.male || !data.female) return;
+
+  const total = data.male.map((m, i) => m + data.female[i]);
+  const percentLabels = data.labels.map((label, i) => `${label} (${total[i]})`);
+
+  if (window.myChart) window.myChart.destroy();
+  window.myChart = new Chart(ctx, {
+    type: 'bar',
+    data: {
+      labels: percentLabels,
+      datasets: [
+        {
+          label: 'Male',
+          data: data.male,
+          backgroundColor: "rgba(54, 162, 235, 0.7)"
+        },
+        {
+          label: 'Female',
+          data: data.female,
+          backgroundColor: "rgba(213, 186, 76, 0.7)"
+        }
+      ]
+    },
+    options: {
+      responsive: true,
+      plugins: {
+        title: { display: true, text: title },
+        tooltip: {
+          callbacks: {
+            afterBody: function(tooltipItems) {
+              const i = tooltipItems[0].dataIndex;
+              const total = data.male[i] + data.female[i];
+              const malePct = ((data.male[i] / total) * 100).toFixed(1);
+              const femalePct = ((data.female[i] / total) * 100).toFixed(1);
+              return [`Male: ${malePct}%`, `Female: ${femalePct}%`];
+            }
+          }
+        }
+      }
+    }
+  });
+  document.getElementById('barChartContainer').style.display = 'block';
+}
+</script>
+<script src="chart-internet.js"></script>
+</head>
+<body>
+<div id="tooltip"></div>
+<div id="barChartContainer">
+  <button onclick="document.getElementById('barChartContainer').style.display='none'">&times;</button>
+  <canvas id="barChart"></canvas>
+</div>
+<div style="display:flex;">
+  <div style="flex:1;">
+    <svg id="sankey" width="1300" height="650"></svg>
+  </div>
+  <div style="width:200px; padding:20px; background:#f9f9f9; border-left:1px solid #ddd; font-family:sans-serif;">
+    <h4 style="margin-top:0">Filter by Age</h4>
+    <div id="ageFilter" style="display:flex; flex-direction:column; gap:6px;">
+      <label><input type="radio" name="age" value="All" checked> Show All Ages</label>
+      <label><input type="radio" name="age" value="16-24"> 16–24</label>
+    </div>
+  </div>
+</div>
+<script>
+const svg = d3.select("#sankey"),
+      width = +svg.attr("width"),
+      height = +svg.attr("height"),
+      sankey = d3.sankey().nodeWidth(15).nodePadding(10).extent([[1, 1], [width - 1, height - 6]]),
+      color = d3.scaleOrdinal(d3.schemeCategory10),
+      tooltip = d3.select("#tooltip");
+
+function renderSankey(data) {
+  svg.selectAll("*").remove();
+  const {nodes, links} = sankey({
+    nodes: data.nodes.map(d => Object.assign({}, d)),
+    links: data.links.map(d => Object.assign({}, d))
+  });
+
+  svg.append("g")
+    .selectAll("path")
+    .data(links)
+    .join("path")
+      .attr("class", "link")
+      .attr("d", d3.sankeyLinkHorizontal())
+      .attr("stroke-width", d => Math.max(1, d.width))
+      .on("mouseover", function(event, d) {
+        tooltip.style("display", "block")
+               .html(`<strong>${d.source.name} → ${d.target.name}</strong><br/>Value: ${d.value}`);
+      })
+      .on("mousemove", function(event) {
+        tooltip.style("left", (event.pageX + 10) + "px")
+               .style("top", (event.pageY - 20) + "px");
+      })
+      .on("mouseout", function() {
+        tooltip.style("display", "none");
+      });
+
+  const node = svg.append("g")
+    .selectAll("g")
+    .data(nodes)
+    .join("g")
+      .attr("class", "node");
+
+  node.append("rect")
+    .attr("x", d => d.x0)
+    .attr("y", d => d.y0)
+    .attr("height", d => d.y1 - d.y0)
+    .attr("width", d => d.x1 - d.x0)
+    .attr("fill", d => d.color = color(d.name))
+    .attr("stroke", d => d3.rgb(d.color).darker(2))
+    .on("click", function(event, d) {
+      if (currentAge === "All") {
+        if (typeof handleNodeClick === 'function' && ageData[d.name]) {
+          handleNodeClick(d.name);
+        } else if (vulnerabilityData[d.name]) {
+          showBarChart(d.name);
+        }
+      }
+    });
+
+  node.append("text")
+    .attr("x", d => d.x0 - 6)
+    .attr("y", d => (d.y1 + d.y0) / 2)
+    .attr("dy", "0.35em")
+    .attr("text-anchor", "end")
+    .text(d => d.name)
+    .filter(d => d.x0 < width / 2)
+    .attr("x", d => d.x1 + 6)
+    .attr("text-anchor", "start");
+}
+
+let currentAge = "All";
+function loadSankeyForAge(age) {
+  currentAge = age;
+  const dataPath = age === "16-24" ? "data/sankey_age_16_24.json" : "data/financial1_deduped.json";
+  d3.json(dataPath).then(data => renderSankey(data));
+}
+
+loadSankeyForAge("All");
+
+document.querySelectorAll('input[name="age"]').forEach(radio => {
+  radio.addEventListener("change", function () {
+    loadSankeyForAge(this.value);
+  });
+});
+</script>
+</body>
+</html>
