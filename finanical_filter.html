@@ -82,70 +82,7 @@
     }
   </style>
 <script>
-const vulnerabilityData = {
-  "Financial vulnerability Low": {
-    labels: ["≤£199/wk", "£200–£299/wk"],
-    male: [80, 180],
-    female: [95, 208]
-  },
-  "Financial vulnerability Medium": {
-    labels: ["£300–£499/wk", "£500–£699/wk"],
-    male: [220, 210],
-    female: [220, 201]
-  },
-  "Financial vulnerability High": {
-    labels: ["£700–£999/wk", "£1000+/wk"],
-    male: [165, 112],
-    female: [148, 109]
-  }
-};
-
-function showBarChart(title) {
-  const ctx = document.getElementById('barChart').getContext('2d');
-  const data = ageData[title] || vulnerabilityData[title];
-  if (!data || !data.male || !data.female) return;
-
-  const total = data.male.map((m, i) => m + data.female[i]);
-  const percentLabels = data.labels.map((label, i) => `${label} (${total[i]})`);
-
-  if (window.myChart) window.myChart.destroy();
-  window.myChart = new Chart(ctx, {
-    type: 'bar',
-    data: {
-      labels: percentLabels,
-      datasets: [
-        {
-          label: 'Male',
-          data: data.male,
-          backgroundColor: "rgba(54, 162, 235, 0.7)"
-        },
-        {
-          label: 'Female',
-          data: data.female,
-          backgroundColor: "rgba(213, 186, 76, 0.7)"
-        }
-      ]
-    },
-    options: {
-      responsive: true,
-      plugins: {
-        title: { display: true, text: title },
-        tooltip: {
-          callbacks: {
-            afterBody: function(tooltipItems) {
-              const i = tooltipItems[0].dataIndex;
-              const total = data.male[i] + data.female[i];
-              const malePct = ((data.male[i] / total) * 100).toFixed(1);
-              const femalePct = ((data.female[i] / total) * 100).toFixed(1);
-              return [`Male: ${malePct}%`, `Female: ${femalePct}%`];
-            }
-          }
-        }
-      }
-    }
-  });
-  document.getElementById('barChartContainer').style.display = 'block';
-}
+ 
 </script>
 <script src="chart-internet.js"></script>
 </head>
@@ -270,7 +207,7 @@ function renderSankey(data) {
             if (typeof handleNodeClick === 'function' && ageData[d.name]) {
               handleNodeClick(d.name);
             } else if (vulnerabilityData[d.name]) {
-              showBarChart(d.name);
+              showVulnerabilitBarChart(d.name);
             }
           }
         })
