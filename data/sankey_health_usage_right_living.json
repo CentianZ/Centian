@@ -29,82 +29,82 @@
     {
       "source": 0,
       "target": 2,
-      "value": 34.2
+      "value": 342
     },
     {
       "source": 0,
       "target": 3,
-      "value": 22.3
+      "value": 223
     },
     {
       "source": 0,
       "target": 4,
-      "value": 36.7
+      "value": 307
     },
     {
       "source": 0,
       "target": 5,
-      "value": 8.8
+      "value": 188
     },
     {
       "source": 1,
       "target": 2,
-      "value": 35.5
+      "value": 355
     },
     {
       "source": 1,
       "target": 3,
-      "value": 23.5
+      "value": 235
     },
     {
       "source": 1,
       "target": 4,
-      "value": 37.3
+      "value": 373
     },
     {
       "source": 1,
       "target": 5,
-      "value": 3.7
+      "value": 137
     },
     {
       "source": 2,
       "target": 6,
-      "value": 36.3
+      "value": 363
     },
     {
       "source": 3,
       "target": 6,
-      "value": 37.9
+      "value": 379
     },
     {
       "source": 4,
       "target": 6,
-      "value": 22.4
+      "value": 374
     },
     {
       "source": 5,
       "target": 6,
-      "value": 7.4
+      "value": 214
     },
     {
       "source": 2,
       "target": 7,
-      "value": 34.6
+      "value": 326
     },
     {
       "source": 3,
       "target": 7,
-      "value": 23.7
+      "value": 237
     },
     {
       "source": 4,
       "target": 7,
-      "value": 36.7
+      "value": 227
     },
     {
       "source": 5,
       "target": 7,
-      "value": 3.1
+      "value": 121
     }
   ]
 }

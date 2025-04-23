@@ -134,7 +134,7 @@
         .on("mouseover", function (d) {
           d3.select("#tooltip")
             .style("display", "block")
-            .html(`<strong>${d.source.name } → ${d.target.name}</strong><br/>${format(d.value)}%`);
+            .html(`<strong>${d.source.name } → ${d.target.name}</strong><br/>${format(d.value)}`);
         })
         .on("mousemove", function () {
           d3.select("#tooltip")
@@ -172,7 +172,7 @@
         });
         // Call the drag behavior conditionally
 
-      node.append("rect")
+        node.append("rect")
         .attr("height", function(d) { return d.dy; })
         .attr("width", sankey.nodeWidth())
         .style("fill", function(d) {
@@ -182,45 +182,59 @@
           return d3.rgb(d.color).darker(2);
         })
         .style("cursor", "pointer")
+        .on("mouseover", function(d) {
+          const interactiveNodes = [
+            "Entertainment",
+            "Utility",
+            "Communication"
+          ];
+          if (interactiveNodes.includes(d.name)) {
+            d3.select("#tooltip")
+              .style("display", "block")
+              .html(`<strong>${d.name}</strong><br/>Click to view more details`);
+          }
+        })
+        .on("mousemove", function() {
+          d3.select("#tooltip")
+            .style("left", (d3.event.pageX + 10) + "px")
+            .style("top", (d3.event.pageY - 20) + "px");
+        })
+        .on("mouseout", function() {
+          d3.select("#tooltip").style("display", "none");
+        })
         .on("mousedown", function(d) {
-          // Determine if this is a click or the start of a drag
           var startX = d3.event.clientX;
           var startY = d3.event.clientY;
           var isDragging = false;
-          
+
           d3.event.stopPropagation(); // Stop event propagation
-          
+
           var mousemove = function() {
-            // If mouse moved more than a few pixels, consider it a drag
             if (Math.abs(d3.event.clientX - startX) > 3 || Math.abs(d3.event.clientY - startY) > 3) {
               isDragging = true;
-              // If we're dragging, apply the drag behavior
               nodeDrag.call(d3.select(this.parentNode));
             }
           };
-          
-          var mouseup = function() {
-            d3.select("body").on("mousemove.nodeclick", null).on("mouseup.nodeclick", null);
-            
-            if (!isDragging) {
-              console.log("Clicked node:", d.name);
-              // Handle clicks for different nodes
-              if (d.name === "Entertainment") {
-                showEntertainmentChart();
-              } else if (d.name === "Communication") {
-                showCommunicationChart();
-              } else if (d.name === "Utility") {
-                showUtilityChart();
-              } 
-            }
-          };
-          
-          // Set up mousemove and mouseup listeners on the body
-          d3.select("body")
-            .on("mousemove.nodeclick", mousemove)
-            .on("mouseup.nodeclick", mouseup);
-        });
-        
+
+    var mouseup = function() {
+      d3.select("body").on("mousemove.nodeclick", null).on("mouseup.nodeclick", null);
+      if (!isDragging) {
+        console.log("Clicked node:", d.name);
+        if (d.name === "Entertainment") {
+          showEntertainmentChart();
+        } else if (d.name === "Communication") {
+          showCommunicationChart();
+        } else if (d.name === "Utility") {
+          showUtilityChart();
+        }
+      }
+    };
+
+    d3.select("body")
+      .on("mousemove.nodeclick", mousemove)
+      .on("mouseup.nodeclick", mouseup);
+  });
+
       // Now apply drag behavior to the node after all other setup
       node.call(nodeDrag);
 
