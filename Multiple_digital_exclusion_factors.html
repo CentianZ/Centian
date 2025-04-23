@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<script src="https://d3js.org/d3.v7.min.js"></script>
+	<title>WEBPAGE TITLE</title>
+	<style>
+		body {
+			font-family: sans-serif;
+		}
+
+		p {
+			color: grey;
+		}
+	</style>
+</head>
+
+<body>
+
+	<h2>Multiple digital exclusion factors</h2>
+
+    <h4>Question: What combination of digital exclusion factors are associated with a person being excluded from internet access?</h4>
+    <h7>Some respondents fall into <i><b>multiple digital exclusion risk groups</b></i>. e.g. A person can be <i>[Aged 70+, has health conditions, and lives alone]</i>. Others could be <i>[Financially vulnerable, has health conditions, and lives alone].</i>
+    <br><br>Defining <b><i>"Poor internet access":</b></i></h7>
+    <br><h7>For the purpose of this visualization, "Poor internet access" is defined as respondents who use the following: <br>1. Internet access on publicly accessible computers (e.g., internet café,
+        library), <br>2. Other type of internet access, or <br>3. None of these / Don’t access the internet </h7>
+
+	<!-- Container for the chart -->
+	<div id="chart"></div>
+
+	<script>
+		(async () => {
+			const datapath = "data/use-of-communication-services-consumer-omnibus-digital-exclusion-analysis-data.csv";
+			const myData = await d3.csv(datapath);
+
+			//making Calculated field - Combination of DigExcl factors
+			const originalRiskColumns = [
+				"age_MFV", "age_health", "age_livingalone", "age_health_livingalone", "age_MFV_health_livingalone",
+				"MFV_health", "MFV_health_livingalone", "health_livingalone",
+				"age_SEGDE", "age_SEGDE_health", "age_SEGDE_livingalone", "age_SEGDE_health_livingalone",
+				"SEGDE_health", "SEGDE_livingalone", "SEGDE_livingalone_health"
+			];
+			const renamedRiskColumns = [ //renaming so labels on Axis is shorter
+				"Age1", "Age2", "Age3", "Age4", "Age5",
+				"Fin1", "Fin2", "Health1",
+				"Age6", "Age7", "Age8", "Age9",
+				"Soc1", "Soc2", "Soc3"
+			];
+			
+			
+			// Convert Yes/No to 1/0 and add new calculated fields
+            const processedData = myData.map(row => {
+                //making Calculated field - PoorInternet
+                const val4 = row.brk_internet4 === "Yes" ? 1 : 0;
+                const val5 = row.brk_internet5 === "Yes" ? 1 : 0;
+                const val6 = row.brk_internet6 === "Yes" ? 1 : 0;
+				//if respondent says "Yes" to any of the above, count as PoorInternet
+				const poorInternet = (val4 || val5 || val6) ? 1 : 0;
+
+                let riskType = "NoCombiRisk";	//if no combination of risks are fulfilled
+
+                for (let i = 0; i < originalRiskColumns.length; i++) {
+                    if (row[originalRiskColumns[i]] === "Yes") {
+                        riskType = renamedRiskColumns[i];
+                        break;
+                    }
+                }
+
+				return {
+					PoorInternet: poorInternet,
+					CombinationRiskType: riskType
+                };
+                });
+
+                //for each RiskColumn, aggregate PoorInternet counts
+                const aggregatedData = d3.rollups(
+                    processedData.filter(d => d.CombinationRiskType !== "NoCombiRisk"),
+                    v => d3.sum(v, d => d.PoorInternet),
+                    d => d.CombinationRiskType
+                ).map(([key, value]) => ({ CombinationRiskType: key, PoorInternet: value }));
+
+
+			//console.log("Processed data with combined score:", processedData.slice(0, 5));
+            console.table(
+                processedData.map(d => ({
+                    PoorInternet: d.PoorInternet,
+                    CombinationRiskType: d.CombinationRiskType
+                }))
+                );
+
+
+			// Set dimensions
+			const margin = { top: 30, right: 30, bottom: 70, left: 60 },
+				width = 600 - margin.left - margin.right,
+				height = 400 - margin.top - margin.bottom;
+
+			// Append SVG
+			const svg = d3.select("#chart")
+				.append("svg")
+				.attr("width", width + margin.left + margin.right)
+				.attr("height", height + margin.top + margin.bottom)
+				.append("g")
+				.attr("transform", `translate(${margin.left},${margin.top})`);
+            
+            //sort bars in decending height (max risk for PoorInternet, to min risk)
+            aggregatedData.sort((a, b) => d3.descending(a.PoorInternet, b.PoorInternet));
+
+            //tooltip: display details for each RiskColumn
+            const tooltipTextMap = {
+                "Age1": "Aged 70+ & financially vulnerable",
+                "Age2": "Aged 70+ & has health conditions",
+                "Age3": "Aged 70+ & lives alone",
+                "Age4": "Aged 70+, has health conditions, & lives alone",
+                "Age5": "Aged 70+, financially vulnerable, has health conditions, & lives alone",
+                "Fin1": "Financially vulnerable & has health conditions",
+                "Fin2": "Financially vulnerable, has health conditions, & lives alone",
+                "Health1": "Has health conditions & lives alone",
+                "Age6": "Aged 70+ & in social grade DE (lower-income group)",
+                "Age7": "Aged 70+, in social grade DE, & has health conditions",
+                "Age8": "Aged 70+, in social grade DE, & lives alone",
+                "Age9": "Aged 70+, in social grade DE, has health conditions, & lives alone",
+                "Soc1": "In social grade DE & has health conditions",
+                "Soc2": "In social grade DE & lives alone",
+                "Soc3": "In social grade DE, has health conditions, & lives alone"
+                };
+
+
+			// X axis
+            const x = d3.scaleBand()
+                .domain(aggregatedData.map(d => d.CombinationRiskType))
+                .range([0, width])
+                .padding(0.2);
+
+            svg.append("g")
+                .attr("transform", `translate(0,${height})`)
+                .call(d3.axisBottom(x))
+                .selectAll("text")
+                .attr("transform", "rotate(-45)")
+                .style("text-anchor", "end");
+
+       
+
+            svg.append("text")
+                .attr("text-anchor", "middle")
+                .attr("x", width / 2)
+                .attr("y", height + margin.bottom - 10)
+                .text("Combination of Digital Exclusion Factors")
+                .style("font-weight", "regular");  
+
+			// Y axis (aggregate of people with PoorInternet for each RiskColumn)
+            const y = d3.scaleLinear()
+                .domain([0, d3.max(aggregatedData, d => d.PoorInternet)])
+                .nice()
+                .range([height, 0]);
+
+			svg.append("g")
+				.call(d3.axisLeft(y));
+
+                svg.append("text")
+                .attr("text-anchor", "middle")
+                .attr("transform", `rotate(-90)`)
+                .attr("x", -height / 2)
+                .attr("y", -margin.left + 15)
+                .text("No. of people with Poor Internet access")
+                .style("font-weight", "regular");      
+            
+            //color for bars
+            const barcolor = d3.scaleOrdinal(d3.schemeSet3);
+
+			//draw bars
+            svg.selectAll("mybar")
+                .data(aggregatedData)
+                .enter()
+                .append("rect")
+                .attr("x", d => x(d.CombinationRiskType))
+                .attr("y", d => y(d.PoorInternet))
+                .attr("width", x.bandwidth())
+                .attr("height", d => height - y(d.PoorInternet))
+                //.attr("fill", "#69b3a2");  
+                .style("fill", d => barcolor(d.CombinationRiskType)); 
+
+            //making a div for tooltip
+            const tooltip = d3.select("body")
+                .append("div")
+                .style("position", "absolute")
+                .style("background", "#fff")
+                .style("border", "1px solid #ccc")
+                .style("padding", "8px")
+                .style("font-size", "14px")
+                .style("pointer-events", "none")
+                .style("opacity", 0)
+                .style("border-radius", "4px");
+
+            //add tooltip to appear when hovering over bars
+            svg.selectAll("rect")
+                .on("mouseover", (event, d) => {
+                    const tooltipText = tooltipTextMap[d.CombinationRiskType] || "Combination of Exclusion Factors";
+                    tooltip
+                        .style("opacity", 1)
+                        .html(`<strong>${tooltipText}</strong><br/>No.: ${d.PoorInternet}`);
+                })
+                .on("mousemove", (event) => {
+                    tooltip
+                        .style("left", (event.pageX + 10) + "px")
+                        .style("top", (event.pageY - 28) + "px");
+                })
+                .on("mouseout", () => {
+                    tooltip.style("opacity", 0);
+                });
+
+		})();
+	</script>
+
+    <br><br><h7><u>How to use this Visualization</u>
+    <br>The X-axis shows different combinations of Digital Exclusion risk factors. They have been ranked in order of association with "Poor internet access", from highest to lowest association. 
+    <br>Use your cursor to <i>hover over</i> each bar to show detail on (1) the combination of risk factors, and (2) the number of respondents with that combination who have poor internet access.
+    <br><br> The Y-axis is a continuous measure, showing total number of respondents who qualify as "Poor Internet access" under each discrete combination risk factor.
+    </h7>
+</body>
+
+</html>
