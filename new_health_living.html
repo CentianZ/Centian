@@ -2,6 +2,23 @@
 <meta charset="utf-8">
 <title>SANKEY Experiment - Digital Exclusion with Chart</title>
 <style>
+  html, body {
+    height: auto;
+    min-height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
+  body {
+    display: flex;
+    flex-direction: column;
+  }
+  #sankey-container {
+    flex: 1;
+    min-height: 800px;
+    width: 100%;
+    margin-bottom: 20px;
+  }
   .node rect {
     cursor: move;
     fill-opacity: .9;
@@ -29,18 +46,17 @@
     top: 100px;
     left: 100px;
     width: 600px;
-    min-height: 500px;  /* 🔺增加高度 */
+    min-height: 500px;
     background: #fff;
     border: 1px solid #ccc;
     padding: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
   }
   .tooltip {
-  pointer-events: none;
-  z-index: 999;
-  transition: all 0.2s ease;
-}
-
+    pointer-events: none;
+    z-index: 999;
+    transition: all 0.2s ease;
+  }
 </style>
 
 <body>
@@ -72,7 +88,7 @@
   ">&times;</button>
 <div id="chart-container"></div>
 
-    <svg id="barChart" width="480" height="300"></svg>
+    
   </div>
 
   <div id="tooltip" style="
@@ -103,9 +119,9 @@
     // Sankey dimensions
     var units = "people";
 
-    var margin = { top: 10, right: 10, bottom: 10, left: 10 },
+    var margin = { top: 10, right: 10, bottom: 10, left: 80 },
       width = 1300 - margin.left - margin.right,
-      height = 640 - margin.top - margin.bottom;
+      height = 600 - margin.top - margin.bottom;
 
     var formatNumber = d3.format(",.0f"),
       format = function (d) { return formatNumber(d) + " " + units; },

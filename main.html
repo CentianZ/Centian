@@ -11,7 +11,9 @@
       background-color: #f4f4f9;
       display: flex;
       flex-direction: column;
-      align-items: center;
+      min-height: 100vh;
+      height: auto;
+      overflow-y: auto;
     }
     .header-image {
       position: relative;
@@ -57,28 +59,74 @@
     }
     iframe {
       width: 100%;
-      height: calc(100vh - 364px);
       border: none;
       background-color: white;
+      flex: 1;
+    }
+    
+    /* 添加两种不同状态的iframe高度 */
+    .iframe-with-header {
+      min-height: calc(100vh - 364px);
+    }
+    
+    .iframe-without-header {
+      min-height: calc(100vh - 114px); /* 减去导航栏高度和padding */
+    }
+
+    html, body {
+      height: auto;
+      min-height: 100%;
+      margin: 0;
+      padding: 0;
+      overflow-y: auto;
     }
   </style>
   <script>
     function loadPage(page) {
-      document.getElementById('contentFrame').src = page;
-
-      // 控制顶部图像显示逻辑
+      const frame = document.getElementById('contentFrame');
       const header = document.querySelector(".header-image");
+      
+      frame.src = page;
+      
+      // 根据页面控制顶部图像显示和iframe高度
       if (page === "communication_services_dashboard.html") {
         header.style.display = "block";
+        frame.classList.remove('iframe-without-header');
+        frame.classList.add('iframe-with-header');
       } else {
         header.style.display = "none";
+        frame.classList.remove('iframe-with-header');
+        frame.classList.add('iframe-without-header');
       }
+      
+      // 调整iframe高度
+      frame.onload = function() {
+        try {
+          const frameContent = frame.contentWindow.document.body.scrollHeight;
+          frame.style.height = Math.max(frameContent, frame.classList.contains('iframe-without-header') ? 
+            window.innerHeight - 114 : window.innerHeight - 364) + 'px';
+        } catch(e) {
+          console.log('Cannot access frame content:', e);
+        }
+      };
     }
 
-    // 初始页面控制（防止首次加载显示错误）
+    // 初始页面加载
     window.onload = function () {
       loadPage("communication_services_dashboard.html");
     }
+
+    // 监听窗口大小变化
+    window.addEventListener('resize', function() {
+      const frame = document.getElementById('contentFrame');
+      try {
+        const frameContent = frame.contentWindow.document.body.scrollHeight;
+        frame.style.height = Math.max(frameContent, frame.classList.contains('iframe-without-header') ? 
+          window.innerHeight - 114 : window.innerHeight - 364) + 'px';
+      } catch(e) {
+        console.log('Cannot access frame content:', e);
+      }
+    });
   </script>
 </head>
 <body>
