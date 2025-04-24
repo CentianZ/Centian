@@ -133,7 +133,7 @@ const ageData = {
 
   const vulnerabilityData = {
     "Financial vulnerability Low": {
-      labels: ["≤£199/wk", "£200–£299/wk"],
+        labels: ["£700–£999/wk", "£1000+/wk"],
       male: [80, 180],
       female: [95, 208]
     },
@@ -144,6 +144,7 @@ const ageData = {
     },
     "Financial vulnerability High": {
       labels: ["£700–£999/wk", "£1000+/wk"],
+      labels: ["≤£199/wk", "£200–£299/wk"],
       male: [165, 112],
       female: [148, 109]
     }
@@ -169,7 +170,7 @@ const ageData = {
           width = 700 - margin.left - margin.right,
           height = 400 - margin.top - margin.bottom;
   
-    // 添加退出按钮
+    // Add the exit button
     container.append("button")
       .text("✖ Close")
       .style("float", "right")
@@ -234,7 +235,7 @@ const ageData = {
           .style("left", (event.pageX + 10) + "px")
           .style("top", (event.pageY - 20) + "px");
   
-        // 高亮当前 bar
+         
         d3.select(this).attr("fill", "#f39c12");
       })
       .on("mousemove", event => {
